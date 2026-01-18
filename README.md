@@ -1,54 +1,33 @@
-# Klausur-Trainer
+# 🎓 Klausur-Trainer: Sozialpsychologie & Macht
 
-Interaktive Lern-App zur Vorbereitung auf die Sozialpsychologie-Klausur.
+Eine interaktive Web-App zur Vorbereitung auf die Sozialpsychologie-Klausur. Dieses Projekt hilft beim Lernen durch Quizze, Karteikarten und simulierte Prüfungen.
 
-## 🚀 Quick Start
+## 🚀 Direkt Lernen
 
-### Lokal starten
-```bash
-cd klausur-trainer
-python3 -m http.server 8080
-# Öffne http://localhost:8080
-```
-
-### Mit anderen teilen
-
-**Option 1: GitHub Pages (empfohlen)**
-1. Erstelle ein GitHub Repository
-2. Lade alle Dateien hoch
-3. Gehe zu Settings → Pages → Source: "main branch"
-4. Nach 1-2 Minuten ist die App unter `https://DEIN-USERNAME.github.io/klausur-trainer` erreichbar
-
-**Option 2: Ordner kopieren**
-Kopiere den kompletten `klausur-trainer` Ordner auf einen USB-Stick oder in die Cloud. Andere müssen dann den Server-Befehl ausführen.
-
-**Option 3: Netlify Drop**
-1. Gehe zu https://app.netlify.com/drop
-2. Ziehe den `klausur-trainer` Ordner ins Browserfenster
-3. Sofort ein öffentlicher Link verfügbar
-
-## 📁 Struktur
-
-```
-klausur-trainer/
-├── index.html          # Hauptseite
-├── css/styles.css      # Styling
-├── js/
-│   ├── data.js         # Daten-Laden
-│   ├── storage.js      # LocalStorage
-│   ├── quiz.js         # Quiz-Logik
-│   └── app.js          # App-Steuerung
-└── data/
-    └── questions.json  # Fragen-Datenbank
-```
+**[Hier klicken, um die App zu starten!](https://morlinghausm-hue.github.io/sozi-klausur-trainer/)**
 
 ## ✨ Features
 
-- 103 MC-Fragen + 19 offene Fragen
-- 9 Themen aus dem Seminar
-- Quiz-Modus mit sofortigem Feedback
-- Prüfungssimulation (20 MC + offene Fragen)
-- Spaced Repetition (schwache Fragen werden öfter wiederholt)
-- Fortschritts-Tracking (im Browser gespeichert)
-- Multi-Select Support für "Wähle alle zutreffenden" Fragen
-- Markierung: 📚 Aus Übungsmaterial vs. 🤖 KI-generiert
+*   **Themenbasiertes Lernen**: Gezieltes Üben von spezifischen Vorlesungsinhalten.
+*   **Quiz-Modus**: Multiple-Choice Fragen mit sofortigem Feedback und Erklärungen.
+*   **Karteikarten (Spaced Repetition)**: Intelligentes Lernsystem, das schwierige Karten öfter wiederholt.
+*   **Prüfungssimulation**: Realistischer Testmodus mit Zeitdruck und ohne sofortiges Feedback.
+*   **Lernfortschritt**: Automatische Speicherung des Fortschritts im Browser.
+*   **Klausur-Countdown**: Zeigt die verbleibenden Tage bis zur Prüfung an.
+
+## 🛠️ Technologie
+
+Dieses Projekt wurde mit **Vanilla HTML, CSS und JavaScript** erstellt.
+*   Keine Frameworks (React, Vue, etc.)
+*   Kein Backend-Server notwendig
+*   Daten werden als JSON geladen
+*   Fortschritt wird im `localStorage` gespeichert
+
+## ⚠️ Disclaimer
+
+Dies ist ein privates Lernprojekt von Studierenden für Studierende.
+Die Inhalte basieren auf den Vorlesungsunterlagen, aber es wird keine Garantie für die Richtigkeit oder Vollständigkeit übernommen.
+
+---
+
+*Viel Erfolg bei der Klausur! 🍀*
