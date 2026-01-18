@@ -1,0 +1,380 @@
+{
+    "topic": {
+        "id": 9,
+        "name": "Leadership & Digitalization",
+        "date": "2026-01-14",
+        "keyPapers": [
+            "Cortellazzo et al. 2019",
+            "Hoch & Kozlowski 2014"
+        ],
+        "keyConcepts": [
+            "E-Leadership: Führung im Kontext digitaler Technologien",
+            "Virtuelle Teams: hierarchische Führung weniger effektiv",
+            "Strukturelle Unterstützung und Shared Leadership als Kompensation",
+            "Virtualität moderiert Zusammenhang zwischen Führung und Teamleistung"
+        ],
+        "focusFromImpulse": "Was ändert sich bei virtuellen Teams? Warum hierarchische Führung weniger wichtig, shared leadership wichtiger?"
+    },
+    "questions": {
+        "mc_existing": [
+            {
+                "id": "ld_ex_1",
+                "difficulty": "medium",
+                "stem": "Welche Hauptkategorie umfasst Makroanalysen NICHT?",
+                "options": [
+                    {
+                        "text": "Verhältnis zwischen e-leaders und Organisationen",
+                        "correct": false
+                    },
+                    {
+                        "text": "Nutzung Technologien der Leader für komplexe Probleme",
+                        "correct": false
+                    },
+                    {
+                        "text": "Skills der e-leader",
+                        "correct": true
+                    },
+                    {
+                        "text": "Einfluss von digitalen Technologien auf ethische Führungsweisen",
+                        "correct": false
+                    }
+                ],
+                "source": "Klausurfragen Digitalisierung",
+                "explanation": "Skills der e-leader gehören zu den Mikroanalysen (individuelle Ebene), nicht zu den Makroanalysen (organisationale Ebene)."
+            },
+            {
+                "id": "ld_ex_2",
+                "difficulty": "easy",
+                "stem": "Was ist der Sinn des Papers 'The Role of Leadership in a Digitalized World' von Cortellazzo et al. (2019)?",
+                "options": [
+                    {
+                        "text": "Meta-Analyse",
+                        "correct": false
+                    },
+                    {
+                        "text": "Experiment mit Hypothesentestung",
+                        "correct": false
+                    },
+                    {
+                        "text": "Kategorisierung und einen Framework schaffen",
+                        "correct": true
+                    },
+                    {
+                        "text": "Leitfaden für Führungskräfte",
+                        "correct": false
+                    }
+                ],
+                "source": "Klausurfragen Digitalisierung",
+                "explanation": "Das Paper ist ein Review, das die Literatur kategorisiert und einen konzeptuellen Framework für E-Leadership schafft."
+            },
+            {
+                "id": "ld_ex_3",
+                "difficulty": "medium",
+                "stem": "Was ist KEINE Herausforderung von Führungskräften in der Digitalisierung?",
+                "options": [
+                    {
+                        "text": "Umgang mit schneller Entwicklung von Veränderungen",
+                        "correct": false
+                    },
+                    {
+                        "text": "Geringere Flexibilität der Mitarbeitenden",
+                        "correct": true
+                    },
+                    {
+                        "text": "Vertrauen und Motivation im Team zu schaffen",
+                        "correct": false
+                    },
+                    {
+                        "text": "Kommunikations- und Informationsfluss im Team zu gewährleisten",
+                        "correct": false
+                    }
+                ],
+                "source": "Klausurfragen Digitalisierung",
+                "explanation": "Digitalisierung erfordert eher MEHR Flexibilität, nicht weniger. Die anderen sind echte Herausforderungen: Schnelle Veränderungen, Vertrauen aufbauen, Kommunikation sichern."
+            },
+            {
+                "id": "ld_ex_4",
+                "difficulty": "medium",
+                "stem": "Wie kann der hierarchische Führungsstil in virtuellen Teams kompensiert werden?",
+                "options": [
+                    {
+                        "text": "Treffen zum kulturellen Austausch mit anderen Mitarbeitenden",
+                        "correct": false
+                    },
+                    {
+                        "text": "Transaktionale Führung",
+                        "correct": false
+                    },
+                    {
+                        "text": "Leader-Member-Exchange",
+                        "correct": false
+                    },
+                    {
+                        "text": "Geteilte Führung (Shared Leadership)",
+                        "correct": true
+                    }
+                ],
+                "source": "Klausurfragen Digitalisierung",
+                "explanation": "Bei virtuellen Teams ist hierarchische Führung weniger effektiv. Shared Leadership (geteilte Führung) kann dies kompensieren."
+            },
+            {
+                "id": "ld_ex_5",
+                "difficulty": "hard",
+                "stem": "Welche Aussage ist richtig bezüglich der Moderation durch Virtualität?",
+                "options": [
+                    {
+                        "text": "Der Zusammenhang zwischen hierarchischer Führung und Teamleistung wird durch Virtualität moderiert",
+                        "correct": true
+                    },
+                    {
+                        "text": "Der Zusammenhang zwischen Leader Emergence und Teamleistung wird durch Virtualität moderiert",
+                        "correct": false
+                    },
+                    {
+                        "text": "Der Zusammenhang zwischen struktureller Unterstützung und Teamleistung wird nicht durch Virtualität moderiert",
+                        "correct": false
+                    },
+                    {
+                        "text": "Der Zusammenhang zwischen hierarchischer Führung und Arbeitszufriedenheit wird durch Virtualität moderiert",
+                        "correct": false
+                    }
+                ],
+                "source": "Klausurfragen Digitalisierung",
+                "explanation": "Hoch & Kozlowski zeigten: Virtualität moderiert den Zusammenhang zwischen hierarchischer Führung und TEAMLEISTUNG (nicht Arbeitszufriedenheit)."
+            }
+        ],
+        "mc_generated": [
+            {
+                "id": "ld_gen_1",
+                "difficulty": "easy",
+                "stem": "Was versteht man unter 'virtuellen Teams'?",
+                "options": [
+                    {
+                        "text": "Teams, deren Mitglieder räumlich verteilt arbeiten und primär über digitale Technologien kommunizieren",
+                        "correct": true
+                    },
+                    {
+                        "text": "Teams, die nur aus Computerprogrammen bestehen",
+                        "correct": false
+                    },
+                    {
+                        "text": "Teams ohne echte Aufgaben",
+                        "correct": false
+                    },
+                    {
+                        "text": "Teams, die sich nie treffen dürfen",
+                        "correct": false
+                    }
+                ],
+                "source": "Hoch & Kozlowski 2014",
+                "explanation": "Virtuelle Teams = geografisch verteilte Teams, die hauptsächlich über technologievermittelte Kommunikation zusammenarbeiten."
+            },
+            {
+                "id": "ld_gen_2",
+                "difficulty": "medium",
+                "stem": "Warum ist hierarchische Führung in virtuellen Teams weniger effektiv?",
+                "options": [
+                    {
+                        "text": "Weil direkte Überwachung und persönliche Präsenz fehlen",
+                        "correct": true
+                    },
+                    {
+                        "text": "Weil virtuelle Teams keine Ziele haben",
+                        "correct": false
+                    },
+                    {
+                        "text": "Weil alle Teammitglieder gleich kompetent sind",
+                        "correct": false
+                    },
+                    {
+                        "text": "Weil Führungskräfte nicht am Computer arbeiten können",
+                        "correct": false
+                    }
+                ],
+                "source": "ImpulseZumLernen + Hoch & Kozlowski",
+                "explanation": "Hierarchische Führung basiert oft auf direkter Präsenz und Überwachung. In virtuellen Settings fehlen diese Möglichkeiten, was die Effektivität hierarchischer Führung reduziert."
+            },
+            {
+                "id": "ld_gen_3",
+                "difficulty": "easy",
+                "stem": "Was ist 'Shared Leadership'?",
+                "options": [
+                    {
+                        "text": "Führung wird auf mehrere Teammitglieder verteilt statt bei einer Person konzentriert",
+                        "correct": true
+                    },
+                    {
+                        "text": "Zwei Führungskräfte teilen sich ein Büro",
+                        "correct": false
+                    },
+                    {
+                        "text": "Die Führungskraft wechselt jeden Tag",
+                        "correct": false
+                    },
+                    {
+                        "text": "Führung wird extern eingekauft",
+                        "correct": false
+                    }
+                ],
+                "source": "Hoch & Kozlowski 2014",
+                "explanation": "Shared Leadership = geteilte Teamführung: Führungsaufgaben werden auf mehrere Teammitglieder verteilt, nicht nur bei einem formellen Leader konzentriert."
+            },
+            {
+                "id": "ld_gen_4",
+                "difficulty": "medium",
+                "stem": "Welche zwei Faktoren können hierarchische Führung in virtuellen Teams kompensieren?",
+                "options": [
+                    {
+                        "text": "Strukturelle Unterstützung und Shared Leadership",
+                        "correct": true
+                    },
+                    {
+                        "text": "Mehr E-Mails und längere Meetings",
+                        "correct": false
+                    },
+                    {
+                        "text": "Höhere Gehälter und mehr Urlaubstage",
+                        "correct": false
+                    },
+                    {
+                        "text": "Striktere Kontrolle und mehr Berichte",
+                        "correct": false
+                    }
+                ],
+                "source": "Hoch & Kozlowski 2014",
+                "explanation": "Hoch & Kozlowski identifizierten strukturelle Unterstützung (klare Strukturen, Prozesse) und Shared Leadership als Kompensationsmechanismen."
+            },
+            {
+                "id": "ld_gen_5",
+                "difficulty": "hard",
+                "stem": "Was ist laut ImpulseZumLernen wichtig zu verstehen bezüglich virtueller Teams?",
+                "options": [
+                    {
+                        "text": "WARUM bestimmte Führungsfacetten bei mehr Virtualität wichtiger/weniger wichtig werden",
+                        "correct": true
+                    },
+                    {
+                        "text": "Nur die technischen Tools, die verwendet werden",
+                        "correct": false
+                    },
+                    {
+                        "text": "Die genauen Zeitzonen der Teammitglieder",
+                        "correct": false
+                    },
+                    {
+                        "text": "Die Hardwareausstattung der Teammitglieder",
+                        "correct": false
+                    }
+                ],
+                "source": "ImpulseZumLernen.pdf",
+                "explanation": "Die Dozentin betont: Wichtig ist das Verständnis der GRÜNDE, warum hierarchische Führung weniger und shared leadership mehr wichtig ist bei virtuellen Teams."
+            },
+            {
+                "id": "ld_gen_6",
+                "difficulty": "medium",
+                "stem": "Was ist 'strukturelle Unterstützung' im Kontext virtueller Teams?",
+                "options": [
+                    {
+                        "text": "Klare Prozesse, Regeln und Systeme, die die Teamarbeit unterstützen",
+                        "correct": true
+                    },
+                    {
+                        "text": "Physische Bürogebäude",
+                        "correct": false
+                    },
+                    {
+                        "text": "IT-Support bei technischen Problemen",
+                        "correct": false
+                    },
+                    {
+                        "text": "Finanzielle Unterstützung für Home-Office",
+                        "correct": false
+                    }
+                ],
+                "source": "Hoch & Kozlowski 2014",
+                "explanation": "Strukturelle Unterstützung = formalisierte Strukturen, klare Prozesse und Regeln, die Orientierung geben und die Zusammenarbeit auch ohne direkte Führung ermöglichen."
+            },
+            {
+                "id": "ld_gen_7",
+                "difficulty": "easy",
+                "stem": "Welche Herausforderung ist zentral für Führungskräfte im digitalen Kontext?",
+                "options": [
+                    {
+                        "text": "Vertrauen und Motivation im Team aufbauen trotz räumlicher Distanz",
+                        "correct": true
+                    },
+                    {
+                        "text": "Mehr Präsenztermine organisieren",
+                        "correct": false
+                    },
+                    {
+                        "text": "Digitale Technologien komplett vermeiden",
+                        "correct": false
+                    },
+                    {
+                        "text": "Weniger mit dem Team kommunizieren",
+                        "correct": false
+                    }
+                ],
+                "source": "Klausurfragen + Cortellazzo et al.",
+                "explanation": "Zentrale Herausforderung: Vertrauen und Motivation schaffen, obwohl persönliche Präsenz und face-to-face Interaktion eingeschränkt sind."
+            },
+            {
+                "id": "ld_gen_8",
+                "difficulty": "hard",
+                "stem": "Was ist der Hauptbefund von Hoch & Kozlowski (2014) bezüglich Virtualität und Führung?",
+                "options": [
+                    {
+                        "text": "Virtualität moderiert den Zusammenhang zwischen Führungstyp und Teamleistung - hierarchische Führung wird weniger, shared leadership wichtiger",
+                        "correct": true
+                    },
+                    {
+                        "text": "Virtualität hat keinen Einfluss auf Führungseffektivität",
+                        "correct": false
+                    },
+                    {
+                        "text": "Nur hierarchische Führung funktioniert in virtuellen Teams",
+                        "correct": false
+                    },
+                    {
+                        "text": "Virtuelle Teams brauchen keine Führung",
+                        "correct": false
+                    }
+                ],
+                "source": "Hoch & Kozlowski 2014",
+                "explanation": "Zentraler Befund: Virtualität ist ein Moderator. Bei hoher Virtualität ist hierarchische Führung weniger effektiv für Teamleistung, während shared leadership und strukturelle Unterstützung wichtiger werden."
+            }
+        ],
+        "open_existing": [],
+        "open_generated": [
+            {
+                "id": "ld_open_gen_1",
+                "difficulty": "medium",
+                "stem": "Erklären Sie, warum hierarchische Führung in virtuellen Teams weniger effektiv ist und welche Alternativnwerden.",
+                "modelAnswer": "Hierarchische Führung ist in virtuellen Teams weniger effektiv, weil:\n- Direkte Überwachung und Kontrolle fehlen\n- Persönliche Präsenz und spontane Interaktionen eingeschränkt sind\n- Nonverbale Kommunikation und subtile Einflussnahme erschwert sind\n\nAlternativen, die hierarchische Führung kompensieren können:\n1. Strukturelle Unterstützung: Klare Prozesse, Regeln und formalisierte Strukturen geben Orientierung auch ohne direkte Führungspräsenz\n2. Shared Leadership (geteilte Führung): Führungsaufgaben werden auf mehrere Teammitglieder verteilt, was Autonomie fördert und die Abhängigkeit von einer zentralen Führungsperson reduziert\n\nDie Studie von Hoch & Kozlowski (2014) zeigte, dass Virtualität den Zusammenhang zwischen Führungstyp und Teamleistung moderiert: Bei hoher Virtualität werden shared leadership und strukturelle Unterstützung wichtiger.",
+                "keyPoints": [
+                    "direkte Kontrolle fehlt",
+                    "Präsenz eingeschränkt",
+                    "strukturelle Unterstützung",
+                    "shared leadership",
+                    "Virtualität als Moderator"
+                ]
+            },
+            {
+                "id": "ld_open_gen_2",
+                "difficulty": "hard",
+                "stem": "Beschreiben Sie die Herausforderungen für Führungskräfte im Kontext der Digitalisierung und wie diese bewältigt werden können.",
+                "modelAnswer": "Herausforderungen für Führungskräfte in der Digitalisierung:\n1. Schnelle Veränderungen: Technologien und Arbeitsprozesse ändern sich rasant\n2. Vertrauen aufbauen: Schwieriger ohne persönlichen Kontakt\n3. Motivation erhalten: Teammitglieder können sich isoliert fühlen\n4. Kommunikationsfluss: Information muss aktiver gesteuert werden\n5. Koordination: Ohne physische Präsenz schwieriger\n\nBewältigungsstrategien:\n- Klare Strukturen und Prozesse etablieren (strukturelle Unterstützung)\n- Führung verteilen (shared leadership) statt alles zu zentralisieren\n- Regelmäßige virtuelle Check-ins für informellen Austausch\n- Transparente Kommunikation und klare Erwartungen\n- Vertrauen durch Ergebnisorientierung statt Kontrolle der Arbeitszeit\n- Technologie bewusst einsetzen für Zusammenarbeit, nicht nur für Überwachung",
+                "keyPoints": [
+                    "schnelle Veränderungen",
+                    "Vertrauen",
+                    "Motivation",
+                    "Kommunikation",
+                    "strukturelle Unterstützung",
+                    "shared leadership",
+                    "Ergebnisorientierung"
+                ]
+            }
+        ]
+    }
+}

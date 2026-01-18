@@ -1,0 +1,353 @@
+{
+    "topic": {
+        "id": 6,
+        "name": "Macht und Vertrauen",
+        "date": "2025-12-17",
+        "keyPapers": [
+            "Scholl & Winter 2024",
+            "Scholl et al. 2025"
+        ],
+        "keyConcepts": [
+            "Drei Komponenten von Vertrauen: Wohlwollen, Integrität, Fähigkeit",
+            "Macht als Verantwortung → mehr Vertrauen als Macht als Chance",
+            "Power Granting: Benevolenz + Integrität → Machtübertragung",
+            "Verantwortungserleben mediiert den Effekt auf Power Granting"
+        ],
+        "focusFromImpulse": "Verantwortungsorientierte FK bekommen mehr Vertrauen; Benevolenz + Integrität → Power Granting"
+    },
+    "questions": {
+        "mc_existing": [
+            {
+                "id": "mv_ex_1",
+                "difficulty": "easy",
+                "stem": "Aus welchen drei Komponenten setzt sich Vertrauen zusammen?",
+                "options": [
+                    {
+                        "text": "Wohlwollen, Empathie & Integrität",
+                        "correct": false
+                    },
+                    {
+                        "text": "Wohlwollen, Integrität & Gerechtigkeit",
+                        "correct": false
+                    },
+                    {
+                        "text": "Wohlwollen, Integrität & Fähigkeit",
+                        "correct": true
+                    },
+                    {
+                        "text": "Integrität, Empathie & Verantwortung",
+                        "correct": false
+                    }
+                ],
+                "source": "Klausurfragen Macht und Vertrauen",
+                "explanation": "Die drei Vertrauenskomponenten: 1) Wohlwollen (Benevolenz), 2) Integrität, 3) Fähigkeit (Ability)."
+            },
+            {
+                "id": "mv_ex_2",
+                "difficulty": "medium",
+                "stem": "Was sind positive Konsequenzen von Macht als Verantwortung?",
+                "options": [
+                    {
+                        "text": "Fördert Innovationen",
+                        "correct": false
+                    },
+                    {
+                        "text": "Erhöht die Orientierung an situativen Anforderungen",
+                        "correct": true
+                    },
+                    {
+                        "text": "Reduziert egoistische Entscheidungen",
+                        "correct": true
+                    },
+                    {
+                        "text": "Fördert das Einholen und Annehmen von Rat",
+                        "correct": true
+                    }
+                ],
+                "note": "ORIGINAL: Mehrfachauswahl - B, C, D korrekt (A ist falsch: fördert Innovationen gehört zu Opportunity)",
+                "source": "Klausurfragen Macht und Vertrauen",
+                "explanation": "Macht als Verantwortung führt zu weniger Egoismus, mehr Orientierung an anderen und größerer Offenheit für Rat."
+            },
+            {
+                "id": "mv_ex_3",
+                "difficulty": "medium",
+                "stem": "Was sind Hauptergebnisse der Studie zu Vertrauen in Mächtige (Macht als Verantwortung vs. Chance)?",
+                "options": [
+                    {
+                        "text": "Verantwortungsorientierten Führungspersonen wird eher Vertrauen geschenkt",
+                        "correct": true
+                    },
+                    {
+                        "text": "Verantwortungsorientierte FK werden als other-focused wahrgenommen",
+                        "correct": true
+                    },
+                    {
+                        "text": "Verantwortungsorientierte FK werden als self-focused wahrgenommen",
+                        "correct": false
+                    },
+                    {
+                        "text": "Chancenorientierte FK werden als mächtiger wahrgenommen",
+                        "correct": true
+                    }
+                ],
+                "note": "ORIGINAL: Mehrfachauswahl - A, B, D korrekt",
+                "source": "Klausurfragen Macht und Vertrauen",
+                "explanation": "Verantwortungsorientierte FK: mehr Vertrauen, wahrgenommen als other-focused. Chancenorientierte FK: wahrgenommen als mächtiger, aber weniger Vertrauen."
+            },
+            {
+                "id": "mv_ex_4",
+                "difficulty": "medium",
+                "stem": "Was sind die Kernkonzepte der Studie zu Power Granting?",
+                "options": [
+                    {
+                        "text": "Integrität",
+                        "correct": true
+                    },
+                    {
+                        "text": "Benevolenz",
+                        "correct": true
+                    },
+                    {
+                        "text": "Soziale Verantwortung",
+                        "correct": true
+                    },
+                    {
+                        "text": "Soziale Erwünschtheit",
+                        "correct": false
+                    }
+                ],
+                "note": "ORIGINAL: Mehrfachauswahl - A, B, C korrekt",
+                "source": "Klausurfragen Macht und Vertrauen",
+                "explanation": "Die Power-Granting-Studie untersuchte: Benevolenz, Integrität und soziale Verantwortung - nicht soziale Erwünschtheit."
+            },
+            {
+                "id": "mv_ex_5",
+                "difficulty": "hard",
+                "stem": "Welche Interaktionseffekte wurden in der Studie zu Power Granting gefunden?",
+                "options": [
+                    {
+                        "text": "Hohe Benevolenz und hohe Integrität führt zu hohem Power Granting",
+                        "correct": true
+                    },
+                    {
+                        "text": "Niedrige Benevolenz und hohe Integrität führt zu mittlerem Power Granting",
+                        "correct": false
+                    },
+                    {
+                        "text": "Niedrige Benevolenz und niedrige Integrität führt zu niedrigem Power Granting",
+                        "correct": false
+                    },
+                    {
+                        "text": "Hohe Benevolenz und niedrige Integrität führt zu mittlerem Power Granting",
+                        "correct": true
+                    }
+                ],
+                "note": "ORIGINAL: Mehrfachauswahl - A und D korrekt",
+                "source": "Klausurfragen Macht und Vertrauen",
+                "explanation": "Interaktion: Hohe Benevolenz + hohe Integrität = höchstes Power Granting. Hohe Benevolenz allein (ohne Integrität) führt nur zu mittlerem Power Granting."
+            },
+            {
+                "id": "mv_ex_6",
+                "difficulty": "hard",
+                "stem": "Wie stehen die vier Konzepte aus der Studie 'On the road to power' zueinander?",
+                "options": [
+                    {
+                        "text": "AV: Power Granting, UV: Benevolenz, Mediator: soziale Verantwortung, Moderator: Integrität",
+                        "correct": true
+                    },
+                    {
+                        "text": "AV: Benevolenz, UV: Power Granting, Mediator: soziale Verantwortung, Moderator: Integrität",
+                        "correct": false
+                    },
+                    {
+                        "text": "AV: Power Granting, UV: Benevolenz, Mediator: Integrität, Moderator: soziale Verantwortung",
+                        "correct": false
+                    },
+                    {
+                        "text": "AV: Power Granting, UV: soziale Verantwortung, Mediator: Benevolenz, Moderator: Integrität",
+                        "correct": false
+                    }
+                ],
+                "source": "Klausurfragen Macht und Vertrauen",
+                "explanation": "Modell: Benevolenz (UV) → Soziale Verantwortung (Mediator) → Power Granting (AV), moderiert durch Integrität."
+            }
+        ],
+        "mc_generated": [
+            {
+                "id": "mv_gen_1",
+                "difficulty": "easy",
+                "stem": "Was bedeutet Wohlwollen (Benevolenz) im Kontext von Vertrauen?",
+                "options": [
+                    {
+                        "text": "Der Glaube, dass jemand gute Absichten hat und im Sinne anderer handeln möchte",
+                        "correct": true
+                    },
+                    {
+                        "text": "Die Fähigkeit, komplexe Aufgaben zu lösen",
+                        "correct": false
+                    },
+                    {
+                        "text": "Die Konsistenz zwischen Worten und Taten",
+                        "correct": false
+                    },
+                    {
+                        "text": "Das Einhalten von Gesetzen",
+                        "correct": false
+                    }
+                ],
+                "source": "Handout Macht und Vertrauen - Definitionen",
+                "explanation": "Benevolenz = Wohlwollen: Der Glaube, dass jemand gute Absichten hat und sich für andere einsetzen möchte."
+            },
+            {
+                "id": "mv_gen_2",
+                "difficulty": "easy",
+                "stem": "Was bedeutet Integrität im Kontext von Vertrauen?",
+                "options": [
+                    {
+                        "text": "Die Übereinstimmung zwischen Werten und Handeln",
+                        "correct": true
+                    },
+                    {
+                        "text": "Hohe Intelligenz",
+                        "correct": false
+                    },
+                    {
+                        "text": "Lange Berufserfahrung",
+                        "correct": false
+                    },
+                    {
+                        "text": "Freundliches Auftreten",
+                        "correct": false
+                    }
+                ],
+                "source": "Handout Macht und Vertrauen - Definitionen",
+                "explanation": "Integrität = Person setzt ihre Werte in ihrem Handeln um, hält Versprechen, ist konsistent."
+            },
+            {
+                "id": "mv_gen_3",
+                "difficulty": "medium",
+                "stem": "Warum ist die Darstellung von Macht als Verantwortung mit mehr Vertrauen verbunden?",
+                "options": [
+                    {
+                        "text": "Weil verantwortungsorientierte Machthabende als wohlwollender und integrer wahrgenommen werden",
+                        "correct": true
+                    },
+                    {
+                        "text": "Weil sie mehr Gehalt verdienen",
+                        "correct": false
+                    },
+                    {
+                        "text": "Weil chancenorientierte Machthabende automatisch unethisch handeln",
+                        "correct": false
+                    },
+                    {
+                        "text": "Weil Verantwortung gesetzlich vorgeschrieben ist",
+                        "correct": false
+                    }
+                ],
+                "source": "ImpulseZumLernen - Scholl & Winter 2024",
+                "explanation": "Beobachter schreiben Mächtigen, die Macht als Verantwortung darstellen, mehr Benevolenz und Integrität zu → daher mehr Vertrauen."
+            },
+            {
+                "id": "mv_gen_4",
+                "difficulty": "medium",
+                "stem": "Was bedeutet 'Power Granting'?",
+                "options": [
+                    {
+                        "text": "Die Bereitschaft, einer Person Macht zu übertragen",
+                        "correct": true
+                    },
+                    {
+                        "text": "Das Erhalten von staatlichen Fördermitteln",
+                        "correct": false
+                    },
+                    {
+                        "text": "Die automatische Vererbung von Macht",
+                        "correct": false
+                    },
+                    {
+                        "text": "Das Ablehnen einer Führungsposition",
+                        "correct": false
+                    }
+                ],
+                "source": "Scholl et al. 2025",
+                "explanation": "Power Granting = Die Bereitschaft von Beobachtern, einer Person Macht zu geben/übertragen. Es ist ein Vertrauensprozess."
+            },
+            {
+                "id": "mv_gen_5",
+                "difficulty": "hard",
+                "stem": "Warum ist Integrität als Moderator wichtig für den Effekt von Benevolenz auf Power Granting?",
+                "options": [
+                    {
+                        "text": "Weil Integrität sicherstellt, dass Versprechen auch gehalten werden",
+                        "correct": true
+                    },
+                    {
+                        "text": "Weil nur integer Personen benevolent sein können",
+                        "correct": false
+                    },
+                    {
+                        "text": "Weil Integrität wichtiger ist als Benevolenz",
+                        "correct": false
+                    },
+                    {
+                        "text": "Weil Integrität keinen Einfluss hat",
+                        "correct": false
+                    }
+                ],
+                "source": "Scholl et al. 2025 - Interaktionseffekt",
+                "explanation": "Hohe Benevolenz allein reicht nicht - man muss auch sicher sein, dass die Person ihre guten Absichten umsetzt (Integrität). Deshalb der Interaktionseffekt."
+            },
+            {
+                "id": "mv_gen_6",
+                "difficulty": "medium",
+                "stem": "Was vermittelt (mediiert) den Zusammenhang zwischen Benevolenz und Power Granting?",
+                "options": [
+                    {
+                        "text": "Das wahrgenommene Verantwortungserleben der Person",
+                        "correct": true
+                    },
+                    {
+                        "text": "Das Gehalt der Person",
+                        "correct": false
+                    },
+                    {
+                        "text": "Die Teamgröße",
+                        "correct": false
+                    },
+                    {
+                        "text": "Die Berufserfahrung",
+                        "correct": false
+                    }
+                ],
+                "source": "Scholl et al. 2025",
+                "explanation": "Hoch benevolente und integre Personen werden als verantwortungsbewusster wahrgenommen → deshalb mehr Bereitschaft zur Machtübertragung."
+            }
+        ],
+        "open_existing": [
+            {
+                "id": "mv_open_1",
+                "difficulty": "medium",
+                "stem": "Definiere die Begriffe Wohlwollen & Integrität.",
+                "modelAnswer": "Wohlwollen (Benevolenz): Der Glaube, dass jemand gute Absichten hat und im Sinne anderer handeln möchte. Die Person setzt sich für andere ein, nicht nur für sich selbst.\n\nIntegrität: Die Übereinstimmung zwischen Werten und Handeln. Eine Person mit hoher Integrität setzt ihre Werte in ihrem Handeln um und hält ihre Versprechen.",
+                "keyPoints": [
+                    "Wohlwollen = gute Absichten, für andere",
+                    "Integrität = Werte umsetzen, Versprechen halten"
+                ]
+            }
+        ],
+        "open_generated": [
+            {
+                "id": "mv_open_gen_1",
+                "difficulty": "hard",
+                "stem": "Erklären Sie das Modell der Power-Granting-Studie: Wie hängen Benevolenz, Integrität, soziale Verantwortung und Power Granting zusammen?",
+                "modelAnswer": "Das Modell:\n- UV (Unabhängige Variable): Benevolenz (zeigt die Person Wohlwollen gegenüber anderen?)\n- Mediator: Wahrgenommenes Verantwortungserleben (wird die Person als verantwortungsbewusst eingeschätzt?)\n- Moderator: Integrität (hält die Person ihre Versprechen?)\n- AV (Abhängige Variable): Power Granting (Bereitschaft, der Person Macht zu übertragen)\n\nZusammenhang: Hohe Benevolenz führt zu höherem wahrgenommenem Verantwortungserleben, was wiederum zu höherem Power Granting führt. Dieser Effekt ist besonders stark, wenn die Person auch hohe Integrität zeigt. Bei niedriger Integrität verpufft der positive Effekt der Benevolenz, weil man nicht sicher sein kann, dass die guten Absichten auch umgesetzt werden.",
+                "keyPoints": [
+                    "Benevolenz → Verantwortung → Power Granting",
+                    "Integrität moderiert",
+                    "Interaktionseffekt"
+                ]
+            }
+        ]
+    }
+}

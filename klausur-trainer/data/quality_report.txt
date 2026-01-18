@@ -1,0 +1,7 @@
+QUALITY REPORT - Fragen die manuell geprüft werden sollten
+============================================================
+
+ID: sip_gen_6
+Issues: methodology
+Frage: Was zeigte die Laborexperiment-Studie (Studie 3) zur Dynamik der Prototypikalitä...
+
