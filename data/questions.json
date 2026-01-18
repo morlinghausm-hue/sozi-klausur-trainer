@@ -315,15 +315,11 @@
       "stem": "Warum ist psychological safety besonders wichtig in interdisziplinären Teams mit Hierarchien?",
       "options": [
         {
-          "text": "Weil Ärzte ohne psychological safety weniger verdienen würden",
+          "text": "Weil interdisziplinäre Teams aufgrund ihrer Vielfalt instabiler sind",
           "correct": false
         },
         {
-          "text": "Weil in hierarchischen Teams keine Konflikte auftreten",
-          "correct": false
-        },
-        {
-          "text": "Weil Hierarchien automatisch zu besserer Kommunikation führen",
+          "text": "Weil Hierarchien die Verantwortung eindeutig klären und Fehler so unmöglich machen",
           "correct": false
         },
         {
@@ -347,7 +343,7 @@
       "stem": "Was unterscheidet humble leadership von dem Versuch, besonders kompetent zu wirken?",
       "options": [
         {
-          "text": "Humble leaders verstecken ihre Fehler besser",
+          "text": "Humble Leadership vermeidet jegliche Unsicherheit, um Autorität zu wahren",
           "correct": false
         },
         {
@@ -359,7 +355,7 @@
           "correct": false
         },
         {
-          "text": "Humble leaders haben weniger Fachwissen",
+          "text": "Humble Leader delegieren alle schwierigen Aufgaben",
           "correct": false
         }
       ],
@@ -1027,15 +1023,15 @@
           "correct": true
         },
         {
-          "text": "Keines der beiden Systeme",
+          "text": "Das Inhibition-System, da Macht zu mehr Selbstkontrolle führt",
           "correct": false
         },
         {
-          "text": "Das Inhibition-System (mehr Hemmung)",
+          "text": "Das Vermeiden von Risiken, um den Status nicht zu gefährden",
           "correct": false
         },
         {
-          "text": "Beide Systeme gleichermaßen",
+          "text": "Ausschließlich kognitive Prozesse ohne Verhaltensänderung",
           "correct": false
         }
       ],
@@ -2179,11 +2175,11 @@
       "stem": "Warum ist die Darstellung von Macht als Verantwortung mit mehr Vertrauen verbunden?",
       "options": [
         {
-          "text": "Weil Verantwortung gesetzlich vorgeschrieben ist",
+          "text": "Weil Verantwortungsträger automatisch als kompetenter eingeschätzt werden",
           "correct": false
         },
         {
-          "text": "Weil sie mehr Gehalt verdienen",
+          "text": "Weil sie als durchsetzungsstärker und dominanter wahrgenommen werden",
           "correct": false
         },
         {
@@ -2191,7 +2187,7 @@
           "correct": true
         },
         {
-          "text": "Weil chancenorientierte Machthabende automatisch unethisch handeln",
+          "text": "Weil Verantwortung dazu führt, dass Führungskräfte keine Fehler machen",
           "correct": false
         }
       ],
@@ -2211,7 +2207,7 @@
       "stem": "Was bedeutet 'Power Granting'?",
       "options": [
         {
-          "text": "Das Erhalten von staatlichen Fördermitteln",
+          "text": "Die formelle Zuweisung einer Führungsposition durch die Organisation",
           "correct": false
         },
         {
@@ -2219,11 +2215,11 @@
           "correct": false
         },
         {
-          "text": "Das Ablehnen einer Führungsposition",
+          "text": "Das aktive Einfordern von Entscheidungsbefugnissen durch die Führungskraft",
           "correct": false
         },
         {
-          "text": "Die Bereitschaft, einer Person Macht zu übertragen",
+          "text": "Die Bereitschaft von Mitarbeitenden, ihrer Führungskraft Macht und Einfluss zuzusprechen",
           "correct": true
         }
       ],
@@ -2506,15 +2502,15 @@
           "correct": true
         },
         {
-          "text": "Sie steigt",
+          "text": "Sie wird wichtiger als die Gruppenprototypikalität",
           "correct": false
         },
         {
-          "text": "Führungsschemata und Prototypikalität sind identisch",
+          "text": "Sie verschmilzt vollständig mit den persönlichen Eigenschaften der Führungskraft",
           "correct": false
         },
         {
-          "text": "Sie bleibt gleich",
+          "text": "Sie bleibt unverändert hoch, da Führungsschemata universell sind",
           "correct": false
         }
       ],
@@ -3207,15 +3203,15 @@
       "stem": "Was versteht man unter 'virtuellen Teams'?",
       "options": [
         {
-          "text": "Teams, die sich nie treffen dürfen",
+          "text": "Teams, die ausschließlich in einer virtuellen Realität existieren",
           "correct": false
         },
         {
-          "text": "Teams, die nur aus Computerprogrammen bestehen",
+          "text": "Projektgruppen, die ohne menschliche Interaktion arbeiten",
           "correct": false
         },
         {
-          "text": "Teams ohne echte Aufgaben",
+          "text": "Teams, die nur informellen Charakter haben",
           "correct": false
         },
         {
@@ -3239,11 +3235,11 @@
       "stem": "Warum ist hierarchische Führung in virtuellen Teams weniger effektiv?",
       "options": [
         {
-          "text": "Weil virtuelle Teams keine Ziele haben",
+          "text": "Weil die soziale Distanz die Autorität der Führungskraft untergräbt",
           "correct": false
         },
         {
-          "text": "Weil alle Teammitglieder gleich kompetent sind",
+          "text": "Weil Führungskräfte in virtuellen Teams keine Sanktionsmöglichkeiten haben",
           "correct": false
         },
         {
@@ -3251,7 +3247,7 @@
           "correct": true
         },
         {
-          "text": "Weil Führungskräfte nicht am Computer arbeiten können",
+          "text": "Weil hierarchische Statussymbole virtuell weniger sichtbar sind",
           "correct": false
         }
       ],
@@ -3271,11 +3267,11 @@
       "stem": "Was ist 'Shared Leadership'?",
       "options": [
         {
-          "text": "Die Führungskraft wechselt jeden Tag",
+          "text": "Führung rotiert automatisch nach einem festen Zeitplan",
           "correct": false
         },
         {
-          "text": "Zwei Führungskräfte teilen sich ein Büro",
+          "text": "Die formelle Aufteilung der Führungsrolle auf exakt zwei Personen",
           "correct": false
         },
         {
@@ -3335,11 +3331,11 @@
       "stem": "Was ist laut ImpulseZumLernen wichtig zu verstehen bezüglich virtueller Teams?",
       "options": [
         {
-          "text": "Nur die technischen Tools, die verwendet werden",
+          "text": "Dass der Einsatz von Technologie alle Führungsprobleme löst",
           "correct": false
         },
         {
-          "text": "Die genauen Zeitzonen der Teammitglieder",
+          "text": "Die rein technischen Herausforderungen der Virtualität",
           "correct": false
         },
         {
@@ -3347,7 +3343,7 @@
           "correct": true
         },
         {
-          "text": "Die Hardwareausstattung der Teammitglieder",
+          "text": "Die juristischen Aspekte von Home-Office",
           "correct": false
         }
       ],
@@ -3367,15 +3363,15 @@
       "stem": "Was ist 'strukturelle Unterstützung' im Kontext virtueller Teams?",
       "options": [
         {
-          "text": "Physische Bürogebäude",
+          "text": "Regelmäßige finanzielle Boni",
           "correct": false
         },
         {
-          "text": "Finanzielle Unterstützung für Home-Office",
+          "text": "Psychologische Unterstützung bei Isolation",
           "correct": false
         },
         {
-          "text": "IT-Support bei technischen Problemen",
+          "text": "Technische Schulungen für neue Software",
           "correct": false
         },
         {
@@ -3399,15 +3395,15 @@
       "stem": "Welche Herausforderung ist zentral für Führungskräfte im digitalen Kontext?",
       "options": [
         {
-          "text": "Mehr Präsenztermine organisieren",
+          "text": "Mehr Präsenztermine zu erzwingen",
           "correct": false
         },
         {
-          "text": "Weniger mit dem Team kommunizieren",
+          "text": "Den Kontrollverlust durch Micro-Management zu kompensieren",
           "correct": false
         },
         {
-          "text": "Digitale Technologien komplett vermeiden",
+          "text": "Technologie als vollständigen Ersatz für Führung zu etablieren",
           "correct": false
         },
         {
@@ -3435,15 +3431,15 @@
           "correct": true
         },
         {
-          "text": "Virtualität hat keinen Einfluss auf Führungseffektivität",
+          "text": "Virtualität macht Führung weitgehend überflüssig",
           "correct": false
         },
         {
-          "text": "Virtuelle Teams brauchen keine Führung",
+          "text": "Virtualität verstärkt den positiven Effekt strikter hierarchischer Kontrolle",
           "correct": false
         },
         {
-          "text": "Nur hierarchische Führung funktioniert in virtuellen Teams",
+          "text": "Nur hierarchische Führung funktioniert in virtuellen Teams, da sonst Chaos droht",
           "correct": false
         }
       ],
