@@ -140,27 +140,49 @@ function renderTopics() {
     grid.appendChild(mixedCard);
 }
 
+let countdownInterval = null;
+
 /**
- * Rendert den Prüfungs-Countdown
+ * Rendert den Prüfungs-Countdown in Echtzeit
  */
 function renderExamCountdown() {
     const metadata = getMetadata();
     if (!metadata || !metadata.examDate) return;
 
-    const examDate = new Date(metadata.examDate);
-    const today = new Date();
-    const diffTime = examDate - today;
-    const diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24));
-
     const container = document.getElementById('examCountdown');
 
-    if (diffDays > 0) {
-        container.textContent = `📅 Noch ${diffDays} Tage bis zur Klausur`;
-    } else if (diffDays === 0) {
-        container.textContent = '🔥 Heute ist Klausurtag!';
-    } else {
-        container.textContent = '✅ Klausur geschrieben';
-    }
+    // Setze Klausurdatum auf 4.2.2026 um 09:00 Uhr
+    const examDate = new Date(metadata.examDate);
+    examDate.setHours(9, 0, 0, 0);
+
+    const update = () => {
+        const now = new Date();
+        const diff = examDate - now;
+
+        if (diff <= 0) {
+            container.textContent = '🔥 Die Klausur hat begonnen!';
+            if (countdownInterval) clearInterval(countdownInterval);
+            return;
+        }
+
+        const days = Math.floor(diff / (1000 * 60 * 60 * 24));
+        const hours = Math.floor((diff % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+        const minutes = Math.floor((diff % (1000 * 60 * 60)) / (1000 * 60));
+        const seconds = Math.floor((diff % (1000 * 60)) / 1000);
+
+        // Formatierung mit führenden Nullen
+        const h = hours.toString().padStart(2, '0');
+        const m = minutes.toString().padStart(2, '0');
+        const s = seconds.toString().padStart(2, '0');
+
+        container.innerHTML = `⏳ ${days}d ${h}h ${m}m ${s}s`;
+    };
+
+    update(); // Initialer Aufruf
+
+    // Interval stoppen falls schon läuft (vermeidet doppelte Timer)
+    if (countdownInterval) clearInterval(countdownInterval);
+    countdownInterval = setInterval(update, 1000);
 }
 
 /**

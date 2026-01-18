@@ -98,6 +98,8 @@ body {
     font-size: 0.875rem;
     font-weight: 500;
     color: white;
+    font-variant-numeric: tabular-nums;
+    letter-spacing: 0.5px;
 }
 
 /* ============================================
