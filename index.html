@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Klausur-Trainer | Sozialpsychologie</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div id="app">
+        <!-- Header -->
+        <header class="header">
+            <div class="header-content">
+                <h1 class="logo">🎓 Klausur-Trainer</h1>
+                <div class="exam-countdown" id="examCountdown"></div>
+            </div>
+        </header>
+
+        <!-- Main Navigation / Topic Selection -->
+        <nav class="main-nav" id="mainNav">
+            <div class="nav-tabs">
+                <button class="nav-tab active" data-view="topics">Themen</button>
+                <button class="nav-tab" data-view="quiz">Quiz</button>
+                <button class="nav-tab" data-view="flashcards">Karten</button>
+                <button class="nav-tab" data-view="exam">Prüfung</button>
+                <button class="nav-tab" data-view="progress">Fortschritt</button>
+            </div>
+        </nav>
+
+        <!-- Topics View -->
+        <section id="topicsView" class="view active">
+            <div class="container">
+                <h2 class="section-title">Wähle ein Thema</h2>
+                <div class="topics-grid" id="topicsGrid">
+                    <!-- Filled by JS -->
+                </div>
+            </div>
+        </section>
+
+        <!-- Quiz View -->
+        <section id="quizView" class="view">
+            <div class="container">
+                <!-- Quiz Header -->
+                <div class="quiz-header">
+                    <div class="quiz-topic" id="quizTopic">Thema</div>
+                    <div class="quiz-progress">
+                        <span id="questionNumber">1</span> / <span id="totalQuestions">10</span>
+                    </div>
+                    <button class="btn-icon" id="closeQuiz" title="Beenden">✕</button>
+                </div>
+
+                <!-- Progress Bar -->
+                <div class="progress-bar-container">
+                    <div class="progress-bar" id="quizProgressBar"></div>
+                </div>
+
+                <!-- Question Card -->
+                <div class="question-card" id="questionCard">
+                    <div class="question-badge" id="questionBadge">
+                        <span class="difficulty-badge" id="difficultyBadge">Medium</span>
+                        <span class="type-badge" id="typeBadge">Single Choice</span>
+                    </div>
+
+                    <h3 class="question-text" id="questionText"></h3>
+
+                    <div class="options-container" id="optionsContainer">
+                        <!-- Options filled by JS -->
+                    </div>
+
+                    <!-- Feedback -->
+                    <div class="feedback-container hidden" id="feedbackContainer">
+                        <div class="feedback-header" id="feedbackHeader">
+                            <span class="feedback-icon"></span>
+                            <span class="feedback-text"></span>
+                        </div>
+                        <div class="feedback-explanation" id="feedbackExplanation"></div>
+                    </div>
+
+                    <!-- Actions -->
+                    <div class="question-actions">
+                        <button class="btn btn-primary hidden" id="submitAnswer">Antwort prüfen</button>
+                        <button class="btn btn-primary hidden" id="nextQuestion">Weiter →</button>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Flashcards View -->
+        <section id="flashcardsView" class="view">
+            <div class="container">
+                <div class="flashcard-header">
+                    <h2 class="section-title">📚 Karteikarten</h2>
+                    <div class="flashcard-controls">
+                        <select id="flashcardTopicSelect" class="topic-select">
+                            <option value="all">Alle Themen</option>
+                        </select>
+                        <div class="mode-toggle">
+                            <button class="mode-btn active" id="browseModeBtn">📖 Durchblättern</button>
+                            <button class="mode-btn" id="learnModeBtn">🎯 Lernen</button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Flashcard Stats -->
+                <div class="flashcard-stats" id="flashcardStats">
+                    <!-- Filled by JS -->
+                </div>
+
+                <div class="flashcard-container" id="flashcardContainer">
+                    <div class="flashcard" id="flashcard">
+                        <div class="flashcard-inner" id="flashcardInner">
+                            <div class="flashcard-front" id="flashcardFront">
+                                <p>Lade Karteikarten...</p>
+                            </div>
+                            <div class="flashcard-back" id="flashcardBack">
+                                <p></p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="flashcard-hint">Klicke auf die Karte zum Umdrehen • Pfeiltasten zum Navigieren</div>
+
+                    <div class="flashcard-progress">
+                        <span id="flashcardNumber">1</span> / <span id="flashcardTotal">0</span>
+                    </div>
+
+                    <!-- Browse Mode Actions -->
+                    <div class="flashcard-actions" id="browseActions">
+                        <button class="btn btn-secondary" id="prevFlashcard">← Zurück</button>
+                        <button class="btn btn-primary" id="nextFlashcard">Weiter →</button>
+                    </div>
+
+                    <!-- Learn Mode Confidence Buttons -->
+                    <div class="confidence-area hidden" id="confidenceArea">
+                        <p class="confidence-question">Wie sicher warst du?</p>
+                        <div class="confidence-buttons">
+                            <button class="confidence-btn conf-1" data-confidence="1">
+                                <span class="conf-icon">❌</span>
+                                <span class="conf-text">Nochmal</span>
+                            </button>
+                            <button class="confidence-btn conf-2" data-confidence="2">
+                                <span class="conf-icon">😕</span>
+                                <span class="conf-text">Schwer</span>
+                            </button>
+                            <button class="confidence-btn conf-3" data-confidence="3">
+                                <span class="conf-icon">🙂</span>
+                                <span class="conf-text">Gut</span>
+                            </button>
+                            <button class="confidence-btn conf-4" data-confidence="4">
+                                <span class="conf-icon">😊</span>
+                                <span class="conf-text">Einfach</span>
+                            </button>
+                            <button class="confidence-btn conf-5" data-confidence="5">
+                                <span class="conf-icon">🎯</span>
+                                <span class="conf-text">Perfekt</span>
+                            </button>
+                        </div>
+                        <p class="confidence-hint">Tastenkürzel: 1-5</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Exam Simulation View -->
+        <section id="examView" class="view">
+            <div class="container">
+                <div class="exam-intro" id="examIntro">
+                    <div class="exam-icon">📝</div>
+                    <h2>Prüfungssimulation</h2>
+                    <p>Simuliere die echte Klausur mit:</p>
+                    <ul class="exam-details">
+                        <li>20 Multiple-Choice-Fragen (Single Choice)</li>
+                        <li>2-3 offene Fragen</li>
+                        <li>Feedback erst am Ende</li>
+                    </ul>
+                    <button class="btn btn-primary btn-large" id="startExam">Prüfung starten</button>
+                </div>
+
+                <!-- Exam in progress (reuses quiz card) -->
+                <div class="exam-progress hidden" id="examProgress">
+                    <!-- Similar to quiz view -->
+                </div>
+
+                <!-- Exam Results -->
+                <div class="exam-results hidden" id="examResults">
+                    <div class="results-header">
+                        <h2>Prüfungsergebnis</h2>
+                        <div class="score-circle" id="scoreCircle">
+                            <span class="score-value" id="scoreValue">0%</span>
+                        </div>
+                    </div>
+                    <div class="results-breakdown" id="resultsBreakdown">
+                        <!-- Filled by JS -->
+                    </div>
+                    <button class="btn btn-primary" id="reviewExam">Antworten durchgehen</button>
+                    <button class="btn btn-secondary" id="retakeExam">Neue Prüfung</button>
+                </div>
+            </div>
+        </section>
+
+        <!-- Progress View -->
+        <section id="progressView" class="view">
+            <div class="container">
+                <h2 class="section-title">Dein Lernfortschritt</h2>
+
+                <div class="stats-overview" id="statsOverview">
+                    <div class="stat-card">
+                        <div class="stat-value" id="totalAnswered">0</div>
+                        <div class="stat-label">Fragen beantwortet</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-value" id="correctRate">0%</div>
+                        <div class="stat-label">Richtig</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-value" id="streakCount">0</div>
+                        <div class="stat-label">Aktuelle Serie</div>
+                    </div>
+                </div>
+
+                <h3 class="subsection-title">Fortschritt pro Thema</h3>
+                <div class="topic-progress-list" id="topicProgressList">
+                    <!-- Filled by JS -->
+                </div>
+
+                <div class="weak-topics" id="weakTopics">
+                    <h3 class="subsection-title">🎯 Empfehlung: Diese Themen üben</h3>
+                    <div class="weak-topics-list" id="weakTopicsList"></div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Open Question Modal -->
+        <div class="modal hidden" id="openQuestionModal">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h3 id="openQuestionTitle">Offene Frage</h3>
+                    <button class="btn-icon" id="closeModal">✕</button>
+                </div>
+                <div class="modal-body">
+                    <p class="question-text" id="openQuestionText"></p>
+                    <textarea id="openQuestionAnswer" placeholder="Deine Antwort..." rows="6"></textarea>
+
+                    <div class="model-answer hidden" id="modelAnswerContainer">
+                        <h4>Musterlösung:</h4>
+                        <p id="modelAnswer"></p>
+                        <h4>Wichtige Punkte:</h4>
+                        <ul id="keyPoints"></ul>
+                    </div>
+                </div>
+                <div class="modal-actions">
+                    <button class="btn btn-primary" id="showModelAnswer">Musterlösung zeigen</button>
+                    <button class="btn btn-secondary hidden" id="closeOpenQuestion">Weiter</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="js/data.js"></script>
+    <script src="js/storage.js"></script>
+    <script src="js/quiz.js"></script>
+    <script src="js/flashcards.js"></script>
+    <script src="js/app.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,380 @@
+{
+    "topic": {
+        "id": 7,
+        "name": "Soziale Identität, Prototypikalität & Führung",
+        "date": null,
+        "keyPapers": [
+            "Hogg",
+            "Giessner et al. 2009"
+        ],
+        "keyConcepts": [
+            "Soziale Identität = Selbstdefinition durch Gruppenzugehörigkeit",
+            "Prototyp = gruppendefinierende Merkmale, Unterschiede zu Outgroup",
+            "Social Identity Theory of Leadership: Prototypikalität → Legitimität",
+            "License-to-fail: Prototypische Leader werden bei Misserfolg milder beurteilt"
+        ],
+        "focusFromImpulse": "Prototypikalität zentral für Legitimität; Vertrauen als Mediator"
+    },
+    "questions": {
+        "mc_existing": [
+            {
+                "id": "sip_ex_1",
+                "difficulty": "easy",
+                "stem": "Welche Aussage zur sozialen Identität trifft zu?",
+                "options": [
+                    {
+                        "text": "Soziale Identität beschreibt ausschließlich stabile Persönlichkeitsmerkmale",
+                        "correct": false
+                    },
+                    {
+                        "text": "Soziale Identität entsteht durch die Zugehörigkeit zu sozialen Gruppen",
+                        "correct": true
+                    },
+                    {
+                        "text": "Soziale Identität ist unabhängig vom jeweiligen Kontext",
+                        "correct": false
+                    },
+                    {
+                        "text": "Soziale Identität bezieht sich nur auf formelle Gruppen",
+                        "correct": false
+                    }
+                ],
+                "source": "Klausurfragen Soziale Identität",
+                "explanation": "Soziale Identität = Selbstdefinition durch Gruppenzugehörigkeit. Sie ist kontextabhängig und fließend (von persönlich-individuell bis 'wir')."
+            },
+            {
+                "id": "sip_ex_2",
+                "difficulty": "medium",
+                "stem": "Welche Aussagen zum Prototyp-Begriff sind korrekt?",
+                "options": [
+                    {
+                        "text": "Prototypen fassen gruppendefinierende Merkmale zusammen",
+                        "correct": true
+                    },
+                    {
+                        "text": "Prototypen sind immer reale Personen",
+                        "correct": false
+                    },
+                    {
+                        "text": "Prototypen erfassen Ähnlichkeiten innerhalb der Gruppe",
+                        "correct": true
+                    },
+                    {
+                        "text": "Prototypen helfen, Unterschiede zwischen Ingroup und Outgroup wahrzunehmen",
+                        "correct": true
+                    }
+                ],
+                "note": "ORIGINAL: Mehrfachauswahl - A, C, D korrekt",
+                "source": "Klausurfragen Soziale Identität",
+                "explanation": "Prototyp = Menge an Merkmalen, die Ähnlichkeiten innerhalb der Gruppe UND Unterschiede zu Outgroups erfasst. Kein reales Individuum erforderlich."
+            },
+            {
+                "id": "sip_ex_3",
+                "difficulty": "medium",
+                "stem": "Welche Aussagen beschreiben typische Folgen salienter sozialer Identität?",
+                "options": [
+                    {
+                        "text": "Konformität innerhalb der Gruppe nimmt zu",
+                        "correct": true
+                    },
+                    {
+                        "text": "Individuelle Unterschiede werden stärker betont",
+                        "correct": false
+                    },
+                    {
+                        "text": "Gruppenbezogene Normen verlieren an Bedeutung",
+                        "correct": false
+                    },
+                    {
+                        "text": "Solidarität innerhalb der Gruppe steigt",
+                        "correct": true
+                    }
+                ],
+                "note": "ORIGINAL: Mehrfachauswahl - A und D korrekt",
+                "source": "Klausurfragen Soziale Identität",
+                "explanation": "Wenn soziale Identität salient ist: mehr Konformität, mehr Solidarität, Betonung gruppenbezogener Normen (nicht individueller Unterschiede)."
+            },
+            {
+                "id": "sip_ex_4",
+                "difficulty": "medium",
+                "stem": "Welche Aussage zur Social Identity Theory of Leadership trifft zu?",
+                "options": [
+                    {
+                        "text": "Führungseffektivität hängt primär von Charisma ab",
+                        "correct": false
+                    },
+                    {
+                        "text": "Allgemeine Führungsschemata werden bei hoher Gruppensalienz wichtiger",
+                        "correct": false
+                    },
+                    {
+                        "text": "Wahrgenommene Prototypikalität ist zentral für Legitimität von Führung",
+                        "correct": true
+                    },
+                    {
+                        "text": "Prototypikalität ist innerhalb einer Gruppe gleich verteilt",
+                        "correct": false
+                    }
+                ],
+                "source": "Klausurfragen Soziale Identität",
+                "explanation": "Bei hoher Gruppensalienz: Prototypikalität wird wichtiger als allgemeine Führungsschemata. Prototypikalität ist NICHT gleich verteilt (Gradient)."
+            },
+            {
+                "id": "sip_ex_5",
+                "difficulty": "hard",
+                "stem": "Welche Aussagen zum 'License-to-fail-Effekt' treffen zu?",
+                "options": [
+                    {
+                        "text": "Prototypische Leader werden nach Misserfolg strenger beurteilt",
+                        "correct": false
+                    },
+                    {
+                        "text": "Vertrauen in die Führungskraft puffert negative Bewertungen",
+                        "correct": true
+                    },
+                    {
+                        "text": "Prototypische Leader werden bei Misserfolg milder bewertet",
+                        "correct": true
+                    },
+                    {
+                        "text": "Nach Erfolg werden prototypische und nicht-prototypische Leader ähnlich bewertet",
+                        "correct": true
+                    }
+                ],
+                "note": "ORIGINAL: Mehrfachauswahl - B, C, D korrekt",
+                "source": "Klausurfragen Soziale Identität",
+                "explanation": "License-to-fail: Prototypische Leader bekommen 'Fehlerbonus'. Bei Erfolg: kein Unterschied. Bei Misserfolg: Prototypische milder beurteilt. Vertrauen ist der Mediator."
+            }
+        ],
+        "mc_generated": [
+            {
+                "id": "sip_gen_1",
+                "difficulty": "easy",
+                "stem": "Was versteht man unter dem Prototypikalitäts-Gradienten in Gruppen?",
+                "options": [
+                    {
+                        "text": "Einige Mitglieder sind prototypischer als andere",
+                        "correct": true
+                    },
+                    {
+                        "text": "Alle Mitglieder sind gleich prototypisch",
+                        "correct": false
+                    },
+                    {
+                        "text": "Prototypikalität wird vom Leader festgelegt",
+                        "correct": false
+                    },
+                    {
+                        "text": "Nur der offizielle Leader ist prototypisch",
+                        "correct": false
+                    }
+                ],
+                "source": "Handout Hogg/Giessner",
+                "explanation": "Innerhalb einer Gruppe gibt es einen Prototypikalitäts-Gradienten: Manche Mitglieder verkörpern die Gruppenmerkmale stärker als andere."
+            },
+            {
+                "id": "sip_gen_2",
+                "difficulty": "medium",
+                "stem": "Was passiert mit der Bedeutung allgemeiner Führungsschemata, wenn die Gruppenzugehörigkeit salient wird?",
+                "options": [
+                    {
+                        "text": "Sie sinkt, während die Bedeutung der Gruppenprototypikalität steigt",
+                        "correct": true
+                    },
+                    {
+                        "text": "Sie steigt",
+                        "correct": false
+                    },
+                    {
+                        "text": "Sie bleibt gleich",
+                        "correct": false
+                    },
+                    {
+                        "text": "Führungsschemata und Prototypikalität sind identisch",
+                        "correct": false
+                    }
+                ],
+                "source": "Handout Hogg/Giessner",
+                "explanation": "Je salienter die Gruppenzugehörigkeit, desto mehr wird Führung nach Prototypikalität statt nach allgemeinen Führungsschemata (z.B. Charisma) beurteilt."
+            },
+            {
+                "id": "sip_gen_3",
+                "difficulty": "medium",
+                "stem": "Was unterscheidet 'soziale Attraktion' von 'persönlicher Attraktion'?",
+                "options": [
+                    {
+                        "text": "Soziale Attraktion basiert auf Prototypikalität, persönliche auf individuellen Präferenzen",
+                        "correct": true
+                    },
+                    {
+                        "text": "Es gibt keinen Unterschied",
+                        "correct": false
+                    },
+                    {
+                        "text": "Persönliche Attraktion ist stärker als soziale Attraktion",
+                        "correct": false
+                    },
+                    {
+                        "text": "Soziale Attraktion gibt es nur in formellen Gruppen",
+                        "correct": false
+                    }
+                ],
+                "source": "Handout Hogg/Giessner - Social Attraction",
+                "explanation": "Soziale Identifikation verändert die Basis von Zuneigung: von individuell-persönlichen Präferenzen zu prototypikalitätsbasierter sozialer Attraktion."
+            },
+            {
+                "id": "sip_gen_4",
+                "difficulty": "hard",
+                "stem": "Warum werden hoch prototypische Leader als charismatisch wahrgenommen?",
+                "options": [
+                    {
+                        "text": "Wegen des fundamentalen Attributionsfehlers - ihr Verhalten wird als innere Eigenschaft interpretiert",
+                        "correct": true
+                    },
+                    {
+                        "text": "Weil sie objektiv charismatischer sind",
+                        "correct": false
+                    },
+                    {
+                        "text": "Weil sie mehr reden als andere",
+                        "correct": false
+                    },
+                    {
+                        "text": "Charisma und Prototypikalität sind unabhängig voneinander",
+                        "correct": false
+                    }
+                ],
+                "source": "Handout Hogg/Giessner - Attribution",
+                "explanation": "Fundamentaler Attributionsfehler: Hoch prototypische Mitglieder sind salient → ihr Verhalten wird als Ausdruck innerer Eigenschaften (Charisma, Fähigkeit) interpretiert."
+            },
+            {
+                "id": "sip_gen_5",
+                "difficulty": "medium",
+                "stem": "Was zeigte Studie 1 von Giessner et al. (Szenarioexperiment mit Grünen-Anhängern)?",
+                "options": [
+                    {
+                        "text": "Nach Misserfolg wurden prototypische Leader milder beurteilt - Vertrauen mediierte den Effekt",
+                        "correct": true
+                    },
+                    {
+                        "text": "Prototypische Leader wurden immer besser beurteilt",
+                        "correct": false
+                    },
+                    {
+                        "text": "Es gab keinen Unterschied zwischen prototypischen und nicht-prototypischen Leadern",
+                        "correct": false
+                    },
+                    {
+                        "text": "Misserfolg hatte keinen Einfluss auf die Bewertung",
+                        "correct": false
+                    }
+                ],
+                "source": "Handout Hogg/Giessner - Studie 1",
+                "explanation": "Studie 1 (fiktiver Parteivorsitzender): Bei Misserfolg Vorteil für prototypische Leader. Vertrauen vermittelt den 'License-to-fail'-Effekt."
+            },
+            {
+                "id": "sip_gen_6",
+                "difficulty": "hard",
+                "stem": "Was zeigte die Laborexperiment-Studie (Studie 3) zur Dynamik der Prototypikalität?",
+                "options": [
+                    {
+                        "text": "Erfolg erhöht und Misserfolg senkt die wahrgenommene Prototypikalität",
+                        "correct": true
+                    },
+                    {
+                        "text": "Prototypikalität ist stabil und ändert sich nicht",
+                        "correct": false
+                    },
+                    {
+                        "text": "Nur Misserfolg beeinflusst die Prototypikalität",
+                        "correct": false
+                    },
+                    {
+                        "text": "Die Performance hat keinen Einfluss auf die Prototypikalität",
+                        "correct": false
+                    }
+                ],
+                "source": "Handout Hogg/Giessner - Studie 3",
+                "explanation": "Wichtiger Befund: Prototypikalität ist DYNAMISCH. Erfolg erhöht, Misserfolg senkt die wahrgenommene Prototypikalität eines Leaders."
+            },
+            {
+                "id": "sip_gen_7",
+                "difficulty": "easy",
+                "stem": "Was ist eine Strategie, mit der Leader ihre Prototypikalität aufrechterhalten können?",
+                "options": [
+                    {
+                        "text": "Marginalisierung von Ingroup-Abweichlern oder Dämonisierung einer Outgroup",
+                        "correct": true
+                    },
+                    {
+                        "text": "Änderung des eigenen Verhaltens in Richtung der Outgroup",
+                        "correct": false
+                    },
+                    {
+                        "text": "Aufgeben der Führungsposition",
+                        "correct": false
+                    },
+                    {
+                        "text": "Betonung individueller statt gruppenbezogener Merkmale",
+                        "correct": false
+                    }
+                ],
+                "source": "Handout Hogg/Giessner - Mechanismen der Aufrechterhaltung",
+                "explanation": "Leader können ihre Position verteidigen durch: Re-Definition des Prototyps, Marginalisierung von Abweichlern, Dämonisierung von Outgroups (Feindbild)."
+            },
+            {
+                "id": "sip_gen_8",
+                "difficulty": "medium",
+                "stem": "Was ist die zentrale Take-Home-Message zur Social Identity Theory of Leadership?",
+                "options": [
+                    {
+                        "text": "Führung ist ein Gruppenprozess, nicht eine individuelle Eigenschaft",
+                        "correct": true
+                    },
+                    {
+                        "text": "Führung hängt nur von der Persönlichkeit des Leaders ab",
+                        "correct": false
+                    },
+                    {
+                        "text": "Prototypikalität ist unwichtig für Führungserfolg",
+                        "correct": false
+                    },
+                    {
+                        "text": "Vertrauen spielt keine Rolle für die Bewertung von Leadern",
+                        "correct": false
+                    }
+                ],
+                "source": "Handout Hogg/Giessner - Take Home Message",
+                "explanation": "Kernbotschaft: Führung ist ein Gruppenprozess. Prototypikalität ist zentral für Legitimität und Einfluss. Vertrauen verbindet Identität und Effektivitätswahrnehmung."
+            }
+        ],
+        "open_existing": [
+            {
+                "id": "sip_open_1",
+                "difficulty": "medium",
+                "stem": "Warum spielt Prototypikalität eine zentrale Rolle für Einfluss und Legitimität von Führung in Gruppen?",
+                "modelAnswer": "Wenn die Gruppenzugehörigkeit salient ist, wird die Bewertung und Effektivität von Führung zunehmend auf Basis der wahrgenommenen Prototypikalität beurteilt (statt auf allgemeinen Führungsschemata). Hoch prototypische Mitglieder verkörpern am besten, was die Gruppe ausmacht. Dadurch genießen sie mehr soziale Attraktion, werden als charismatischer wahrgenommen (Attributionseffekte) und haben mehr Einfluss auf weniger prototypische Mitglieder. Ihre Führung wird als legitim empfunden, weil sie die Gruppe repräsentieren.",
+                "keyPoints": [
+                    "Salienz der Gruppenzugehörigkeit",
+                    "Prototypikalität wichtiger als allgemeine Schemata",
+                    "soziale Attraktion",
+                    "Attributionseffekte",
+                    "Legitimität durch Repräsentation"
+                ]
+            },
+            {
+                "id": "sip_open_2",
+                "difficulty": "hard",
+                "stem": "Welche Rolle spielt Vertrauen bei der Bewertung von Führungskräften, insbesondere bei Misserfolg?",
+                "modelAnswer": "Vertrauen fungiert als Mediator zwischen Prototypikalität und Führungseffektivität, besonders bei Misserfolg. Hoch prototypische Leader genießen mehr Vertrauen von den Gruppenmitgliedern. Dieses Vertrauen puffert negative Bewertungen bei Misserfolg ('License-to-fail-Effekt').\n\nBei Erfolg werden prototypische und nicht-prototypische Leader ähnlich positiv bewertet. Bei Misserfolg jedoch werden prototypische Leader milder beurteilt - weil die Gruppe ihnen aufgrund des höheren Vertrauens zugesteht, Fehler zu machen. Nicht-prototypische Leader haben diesen 'Vertrauensvorschuss' nicht und werden bei Misserfolg härter beurteilt.",
+                "keyPoints": [
+                    "Vertrauen als Mediator",
+                    "License-to-fail",
+                    "bei Erfolg kein Unterschied",
+                    "bei Misserfolg: prototypische milder beurteilt"
+                ]
+            }
+        ],
+        "open_generated": []
+    }
+}

@@ -1,0 +1,321 @@
+{
+    "topic": {
+        "id": 1,
+        "name": "Psychological Safety",
+        "keyPapers": [
+            "Edmondson",
+            "Walters & Diab 2016",
+            "Nembhard & Edmondson 2006"
+        ],
+        "keyConcepts": [
+            "Psychological Safety = Glaube, dass man nicht bestraft/bloßgestellt wird für Ideen, Fragen, Fehler",
+            "Inclusive Leadership = Wertschätzung, Offenheit der FK",
+            "Humble Leadership = Eigene Grenzen erkennen, Lernbereitschaft vorleben",
+            "Engagement vermittelt durch Psychological Safety"
+        ]
+    },
+    "questions": {
+        "mc_existing": [
+            {
+                "id": "ps_ex_1",
+                "stem": "Was macht psychological safety am ehesten aus?",
+                "options": [
+                    {
+                        "text": "Überwachung der Mitarbeitenden, sodass Regelbrüche und Missstände schnell aufgedeckt werden",
+                        "correct": false
+                    },
+                    {
+                        "text": "Der Glaube, für Ideen, Fragen oder Fehler nicht bloßgestellt oder bestraft zu werden",
+                        "correct": true
+                    },
+                    {
+                        "text": "Die Abwesenheit von Konflikten im Team",
+                        "correct": false
+                    },
+                    {
+                        "text": "Eine angemessene Bezahlung der Mitarbeitenden, sodass keine finanziellen Sorgen entstehen",
+                        "correct": false
+                    }
+                ],
+                "explanation": "Psychological Safety bedeutet, dass Teammitglieder sich sicher fühlen, Risiken einzugehen - z.B. Fragen zu stellen oder Fehler zuzugeben - ohne negative Konsequenzen zu befürchten."
+            },
+            {
+                "id": "ps_ex_2",
+                "stem": "Welche Merkmale zeichnen Führungskräfte aus, die psychological safety fördern?",
+                "options": [
+                    {
+                        "text": "Sie erkennen eigene Grenzen und Fehler",
+                        "correct": true
+                    },
+                    {
+                        "text": "Sie wertschätzen die Stärken und Beiträge anderer",
+                        "correct": true
+                    },
+                    {
+                        "text": "Sie vermeiden es, Unwissen zu zeigen und wirken deshalb kompetent",
+                        "correct": false
+                    },
+                    {
+                        "text": "Sie sind selbst lernbereit und leben damit ihren Mitarbeitenden Lernfähigkeit vor",
+                        "correct": true
+                    }
+                ],
+                "note": "ORIGINAL: Mehrfachauswahl - in App als Lernfrage, nicht Klausursimulation",
+                "explanation": "Humble/Inclusive Leadership fördert Psychological Safety durch: Anerkennung eigener Grenzen, Wertschätzung anderer, und Vorleben von Lernbereitschaft."
+            },
+            {
+                "id": "ps_ex_3",
+                "stem": "Welche Aussagen treffen über den Zusammenhang von inclusive leadership, humble leadership, psychological safety und engagement zu?",
+                "options": [
+                    {
+                        "text": "Humble und inclusive leadership sind sehr ähnliche und nicht ganz trennbare Konzepte",
+                        "correct": true
+                    },
+                    {
+                        "text": "Inclusive leadership korreliert positiv mit psychological safety, während humble leadership negativ mit psychological safety korreliert",
+                        "correct": false
+                    },
+                    {
+                        "text": "Psychological safety hängt positiv mit engagement zusammen",
+                        "correct": true
+                    },
+                    {
+                        "text": "Psychological safety vermittelt den Zusammenhang zwischen leadership und engagement",
+                        "correct": true
+                    }
+                ],
+                "note": "ORIGINAL: Mehrfachauswahl",
+                "explanation": "Humble und inclusive leadership sind stark korrelierte Konzepte. Beide fördern psychological safety, welche wiederum zu höherem Engagement führt (Mediation)."
+            },
+            {
+                "id": "ps_ex_4",
+                "stem": "Welche Aussage(n) stimmt bezüglich der Studie zu psychologischer Sicherheit im Gesundheitswesen?",
+                "options": [
+                    {
+                        "text": "In interdisziplinären Teams mit Hierarchien hat inclusive leadership keinen Einfluss auf die psychological safety",
+                        "correct": false
+                    },
+                    {
+                        "text": "Humble leadership korrelierte überraschenderweise negativ mit psychologischer Sicherheit",
+                        "correct": false
+                    },
+                    {
+                        "text": "Psychological safety vermittelt den Zusammenhang zwischen inclusive leadership und Engagement",
+                        "correct": true
+                    },
+                    {
+                        "text": "Engagement vermittelt den Zusammenhang zwischen dem Status des Mitarbeitenden und psychological safety",
+                        "correct": false
+                    }
+                ],
+                "explanation": "In der NICU-Studie von Nembhard & Edmondson wurde gezeigt, dass inclusive leadership → psychological safety → engagement (Mediationsmodell)."
+            },
+            {
+                "id": "ps_ex_5",
+                "stem": "Welche Erkenntnis lieferte die Studie in den Neugeborenen-Intensivstationen (NICU) bezüglich des beruflichen Status?",
+                "options": [
+                    {
+                        "text": "Pflegekräfte fühlen sich psychologisch sicherer als Ärzte",
+                        "correct": false
+                    },
+                    {
+                        "text": "Es gibt keinen Zusammenhang zwischen beruflichem Status und psychologischer Sicherheit",
+                        "correct": false
+                    },
+                    {
+                        "text": "Personen mit höherem Status (z.B. Ärzte) fühlen sich in der Regel psychologisch sicherer als Personen mit niedrigerem Status",
+                        "correct": true
+                    },
+                    {
+                        "text": "Der Status hat nur Einfluss auf das Gehalt, nicht auf das Arbeitsklima",
+                        "correct": false
+                    }
+                ],
+                "explanation": "Die NICU-Studie zeigte einen Statuseffekt: Ärzte > Pflegekräfte > Respiratory Therapists bezüglich psychological safety. Höherer Status = mehr Sicherheitsgefühl."
+            }
+        ],
+        "mc_generated": [
+            {
+                "id": "ps_gen_1",
+                "stem": "Warum ist psychological safety besonders wichtig in interdisziplinären Teams mit Hierarchien?",
+                "options": [
+                    {
+                        "text": "Weil niedrigstatusige Teammitglieder sich sonst nicht trauen, wichtige Hinweise zu geben",
+                        "correct": true
+                    },
+                    {
+                        "text": "Weil Hierarchien automatisch zu besserer Kommunikation führen",
+                        "correct": false
+                    },
+                    {
+                        "text": "Weil Ärzte ohne psychological safety weniger verdienen würden",
+                        "correct": false
+                    },
+                    {
+                        "text": "Weil in hierarchischen Teams keine Konflikte auftreten",
+                        "correct": false
+                    }
+                ],
+                "source": "Handout Psychological Safety, NICU-Studie",
+                "explanation": "In hierarchischen Settings trauen sich Personen mit niedrigerem Status oft nicht, Bedenken oder Fehler anzusprechen. Psychological safety ermöglicht es allen Teammitgliedern, sich einzubringen."
+            },
+            {
+                "id": "ps_gen_2",
+                "stem": "Was unterscheidet humble leadership von dem Versuch, besonders kompetent zu wirken?",
+                "options": [
+                    {
+                        "text": "Humble leaders geben eigene Grenzen zu, was Vertrauen und Lernbereitschaft fördert",
+                        "correct": true
+                    },
+                    {
+                        "text": "Humble leaders verstecken ihre Fehler besser",
+                        "correct": false
+                    },
+                    {
+                        "text": "Humble leaders haben weniger Fachwissen",
+                        "correct": false
+                    },
+                    {
+                        "text": "Kompetent wirkende Führungskräfte fördern mehr psychological safety",
+                        "correct": false
+                    }
+                ],
+                "source": "Handout Psychological Safety",
+                "explanation": "Humble leadership bedeutet gerade NICHT, Schwächen zu verstecken. Durch das Zugeben eigener Grenzen wird Lernbereitschaft vorgelebt und Psychological Safety gefördert."
+            },
+            {
+                "id": "ps_gen_3",
+                "stem": "In welcher Situation ist humble leadership laut Forschung WENIGER effektiv?",
+                "options": [
+                    {
+                        "text": "Bei Zeitdruck oder Bedrohungssituationen",
+                        "correct": true
+                    },
+                    {
+                        "text": "In großen Unternehmen",
+                        "correct": false
+                    },
+                    {
+                        "text": "Wenn Mitarbeitende jung sind",
+                        "correct": false
+                    },
+                    {
+                        "text": "Humble leadership ist immer gleich effektiv",
+                        "correct": false
+                    }
+                ],
+                "source": "Handout Psychological Safety - Limitationen",
+                "explanation": "Das Handout nennt explizit: Zeitdruck/Bedrohung, Organisationskultur gegen humble leadership, und stark hierarchische Organisationen als Kontexte, in denen humble leadership weniger effektiv ist."
+            },
+            {
+                "id": "ps_gen_4",
+                "stem": "Laut der Studie von Walters & Diab (2016): Was vermittelt (mediiert) den Zusammenhang zwischen humble leadership und follower engagement?",
+                "options": [
+                    {
+                        "text": "Psychological safety",
+                        "correct": true
+                    },
+                    {
+                        "text": "Gehaltszufriedenheit",
+                        "correct": false
+                    },
+                    {
+                        "text": "Teamgröße",
+                        "correct": false
+                    },
+                    {
+                        "text": "Berufserfahrung der Führungskraft",
+                        "correct": false
+                    }
+                ],
+                "source": "Handout Psychological Safety, H3 Walters & Diab",
+                "explanation": "Die Studie zeigt: Humble leadership → Psychological safety → Engagement. Psychological safety ist der Mediator."
+            },
+            {
+                "id": "ps_gen_5",
+                "stem": "Was ist der Kern des Konzepts 'Gegenseitigkeit' im Zusammenhang mit psychological safety?",
+                "options": [
+                    {
+                        "text": "Mitarbeitende investieren mehr, weil sie glauben, dass andere das auch für sie tun würden",
+                        "correct": true
+                    },
+                    {
+                        "text": "Führungskräfte und Mitarbeitende teilen sich das Gehalt",
+                        "correct": false
+                    },
+                    {
+                        "text": "Alle Teammitglieder haben die gleiche Meinung",
+                        "correct": false
+                    },
+                    {
+                        "text": "Feedback wird nur in beide Richtungen gegeben",
+                        "correct": false
+                    }
+                ],
+                "source": "Handout Psychological Safety - 'they would do it for me too'",
+                "explanation": "Wenn psychological safety herrscht, entsteht ein Gefühl der Gegenseitigkeit: Mitarbeitende sind bereit, mehr eigene Ressourcen einzusetzen, weil sie wissen, dass das Team auch für sie da ist."
+            },
+            {
+                "id": "ps_gen_6",
+                "stem": "Welche Methode wurde in der Studie von Walters & Diab (2016) zu humble leadership verwendet?",
+                "options": [
+                    {
+                        "text": "Online-Umfrage bei MTurk-Arbeitstätigen",
+                        "correct": true
+                    },
+                    {
+                        "text": "Laborexperiment mit Studierenden",
+                        "correct": false
+                    },
+                    {
+                        "text": "Langzeitstudie über 5 Jahre",
+                        "correct": false
+                    },
+                    {
+                        "text": "Beobachtungsstudie in Krankenhäusern",
+                        "correct": false
+                    }
+                ],
+                "source": "Handout Psychological Safety - Methodik Studie 2",
+                "explanation": "Die Studie von Walters & Diab (2016) verwendete eine Online-Umfrage mit 140 MTurk-Teilnehmenden und maß Expressed Humility, Job Engagement und Psychological Safety."
+            }
+        ],
+        "open_existing": [
+            {
+                "id": "ps_open_1",
+                "stem": "Beschreiben Sie 3 Merkmale bzw. Verhaltensweisen von Führungskräften, die die psychologische Sicherheit fördern.",
+                "modelAnswer": "1. Erkennung eigener Grenzen und Fehler - die FK gibt zu, wenn sie etwas nicht weiß\n2. Wertschätzung der Stärken und Beiträge anderer / Offenheit für Vorschläge\n3. Lernbereitschaft vorleben - die FK zeigt, dass Lernen wichtiger ist als perfekt zu sein",
+                "keyPoints": [
+                    "eigene Grenzen/Fehler",
+                    "Wertschätzung",
+                    "Lernbereitschaft"
+                ]
+            },
+            {
+                "id": "ps_open_2",
+                "stem": "Beschreiben Sie den Zusammenhang zwischen inclusive leadership, humble leadership, psychological safety und engagement der Mitarbeitenden.",
+                "modelAnswer": "Inclusive und humble leadership sind sehr ähnliche Konzepte und korrelieren stark. Beide Führungsstile fördern psychological safety bei den Mitarbeitenden. Psychological safety wiederum hängt positiv mit Engagement zusammen. Der Zusammenhang zwischen Leadership und Engagement wird durch psychological safety vermittelt (Mediation): Leadership → Psychological Safety → Engagement.",
+                "keyPoints": [
+                    "ähnliche Konzepte",
+                    "fördern psych. safety",
+                    "Mediation",
+                    "Engagement"
+                ]
+            }
+        ],
+        "open_generated": [
+            {
+                "id": "ps_open_gen_1",
+                "stem": "Erklären Sie, warum der berufliche Status in hierarchischen Teams wie Krankenhäusern einen Einfluss auf psychological safety hat und wie inclusive leadership diesen Effekt beeinflussen kann.",
+                "modelAnswer": "In hierarchischen Teams (z.B. Ärzte vs. Pflegekräfte) fühlen sich Personen mit höherem Status psychologisch sicherer, da sie weniger Konsequenzen für das Äußern von Meinungen befürchten. Niedrigstatusige Mitarbeitende halten sich eher zurück. Inclusive leadership kann diesen Effekt abmildern, indem Führungskräfte aktiv alle Teammitglieder einbeziehen, ihre Beiträge wertschätzen und ein Klima schaffen, in dem auch kritische Anmerkungen willkommen sind. Dies ist besonders wichtig in medizinischen Settings, wo das Zurückhalten von Informationen fatale Folgen haben kann.",
+                "keyPoints": [
+                    "Statuseffekt",
+                    "niedrigstatusig zurückhaltend",
+                    "inclusive leadership mildert",
+                    "alle einbeziehen",
+                    "kritische Anmerkungen willkommen"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,291 @@
+{
+    "topic": {
+        "id": 8,
+        "name": "Leader Emergence & Persönlichkeit",
+        "date": null,
+        "keyPapers": [
+            "Judge et al. LTEE"
+        ],
+        "keyConcepts": [
+            "Leader-Trait-Perspektive: Stabile Traits → Emergence & Effectiveness",
+            "LTEE-Modell: Trait → Emergence → Effectiveness",
+            "Evolutionspsychologische Selektion (natürlich, sexuell)",
+            "Riehman-Thomann Modell mit verschiedenen Avataren"
+        ],
+        "focusFromImpulse": "Leader-Trait-Perspektive: stabile Persönlichkeitsmerkmale für Emergence und Effectiveness"
+    },
+    "questions": {
+        "mc_existing": [
+            {
+                "id": "le_ex_1",
+                "difficulty": "medium",
+                "stem": "Welche der folgenden Avatare aus dem Riehman-Thomann Modell gibt es wirklich?",
+                "options": [
+                    {
+                        "text": "Daumüller",
+                        "correct": true
+                    },
+                    {
+                        "text": "Dreher",
+                        "correct": true
+                    },
+                    {
+                        "text": "Nährlich",
+                        "correct": true
+                    },
+                    {
+                        "text": "Narzisse",
+                        "correct": false
+                    }
+                ],
+                "note": "ORIGINAL: Mehrfachauswahl - A, B, C korrekt",
+                "source": "Probefragen Leader Emergence",
+                "explanation": "Im Riehman-Thomann Modell gibt es die Avatare Daumüller, Dreher, Nährlich - aber nicht Narzisse."
+            },
+            {
+                "id": "le_ex_2",
+                "difficulty": "medium",
+                "stem": "Was besagt die Leader-Trait-Perspektive?",
+                "options": [
+                    {
+                        "text": "Bestimmte variable Persönlichkeitsmerkmale (traits) tragen dazu bei, wer eine Führungsperson wird (leadership emergence) und wie erfolgreich diese Person führt (leadership effectiveness)",
+                        "correct": false
+                    },
+                    {
+                        "text": "Bestimmte stabile Persönlichkeitsmerkmale (traits) tragen dazu bei, wer eine Führungsperson wird (leadership emergence) und wie erfolgreich diese Person führt (leadership effectiveness)",
+                        "correct": true
+                    },
+                    {
+                        "text": "Bestimmte stabile Persönlichkeitsmerkmale tragen nur dazu bei, wer eine Führungsperson wird, aber nicht, wie erfolgreich sie führt",
+                        "correct": false
+                    },
+                    {
+                        "text": "Bestimmte variable Persönlichkeitsmerkmale tragen nur dazu bei, wer eine Führungsperson wird, aber nicht, wie erfolgreich sie führt",
+                        "correct": false
+                    }
+                ],
+                "source": "Probefragen Leader Emergence",
+                "explanation": "Leader-Trait-Perspektive: STABILE (nicht variable) Traits beeinflussen BEIDES - Emergence (wer wird Leader) UND Effectiveness (wie erfolgreich)."
+            },
+            {
+                "id": "le_ex_3",
+                "difficulty": "hard",
+                "stem": "Welche evolutionspsychologischen Selektionsmechanismen sind relevant für die Leader-Trait-Perspektive?",
+                "options": [
+                    {
+                        "text": "Soziale Selektion",
+                        "correct": false
+                    },
+                    {
+                        "text": "Kulturelle Selektion",
+                        "correct": false
+                    },
+                    {
+                        "text": "Natürliche Selektion",
+                        "correct": true
+                    },
+                    {
+                        "text": "Sexuelle Selektion",
+                        "correct": true
+                    }
+                ],
+                "note": "ORIGINAL: Mehrfachauswahl - C und D korrekt",
+                "source": "Probefragen Leader Emergence",
+                "explanation": "Evolutionspsychologisch relevant: Natürliche Selektion (Überleben) und sexuelle Selektion (Partnerwahl). Nicht: soziale oder kulturelle Selektion."
+            },
+            {
+                "id": "le_ex_4",
+                "difficulty": "medium",
+                "stem": "Was ist KEIN Teil des Leader Trait Emergence Effectiveness Modells (LTEE)?",
+                "options": [
+                    {
+                        "text": "Subjektive leader effectiveness",
+                        "correct": false
+                    },
+                    {
+                        "text": "Selection processes",
+                        "correct": true
+                    },
+                    {
+                        "text": "Trait theory",
+                        "correct": false
+                    },
+                    {
+                        "text": "Objektive leader effectiveness",
+                        "correct": false
+                    }
+                ],
+                "source": "Probefragen Leader Emergence",
+                "explanation": "Das LTEE-Modell enthält: Traits, Emergence, subjektive und objektive Effectiveness. 'Selection processes' ist KEIN expliziter Teil des Modells."
+            }
+        ],
+        "mc_generated": [
+            {
+                "id": "le_gen_1",
+                "difficulty": "easy",
+                "stem": "Was ist der Unterschied zwischen 'Leader Emergence' und 'Leader Effectiveness'?",
+                "options": [
+                    {
+                        "text": "Emergence = wer zur Führungsperson wird; Effectiveness = wie erfolgreich diese Person führt",
+                        "correct": true
+                    },
+                    {
+                        "text": "Emergence = wie erfolgreich jemand führt; Effectiveness = wer Leader wird",
+                        "correct": false
+                    },
+                    {
+                        "text": "Es gibt keinen Unterschied",
+                        "correct": false
+                    },
+                    {
+                        "text": "Emergence bezieht sich nur auf formelle, Effectiveness nur auf informelle Führung",
+                        "correct": false
+                    }
+                ],
+                "source": "Handout Russ/Wittel",
+                "explanation": "Wichtige Unterscheidung: Emergence = der Prozess, durch den jemand zur Führungsperson wird. Effectiveness = wie gut diese Person dann tatsächlich führt."
+            },
+            {
+                "id": "le_gen_2",
+                "difficulty": "medium",
+                "stem": "Welche Big-Five-Persönlichkeitsmerkmale hängen laut Forschung positiv mit Führungseffektivität zusammen?",
+                "options": [
+                    {
+                        "text": "Extraversion und Offenheit",
+                        "correct": true
+                    },
+                    {
+                        "text": "Neurotizismus und Introversion",
+                        "correct": false
+                    },
+                    {
+                        "text": "Nur Gewissenhaftigkeit",
+                        "correct": false
+                    },
+                    {
+                        "text": "Keine der Big Five hängt mit Führung zusammen",
+                        "correct": false
+                    }
+                ],
+                "source": "Handout Folgen Betrachtungsweise - Persönlichkeit",
+                "explanation": "Extraversion und Offenheit der Führungskraft korrelieren positiv mit Führungseffektivität."
+            },
+            {
+                "id": "le_gen_3",
+                "difficulty": "easy",
+                "stem": "Was versteht man unter 'Traits' in der Leader-Trait-Perspektive?",
+                "options": [
+                    {
+                        "text": "Stabile Persönlichkeitsmerkmale, die über Zeit und Situationen konstant sind",
+                        "correct": true
+                    },
+                    {
+                        "text": "Temporäre Stimmungen",
+                        "correct": false
+                    },
+                    {
+                        "text": "Erlernte Fähigkeiten",
+                        "correct": false
+                    },
+                    {
+                        "text": "Situationsabhängige Verhaltensweisen",
+                        "correct": false
+                    }
+                ],
+                "source": "Leader-Trait-Theorie",
+                "explanation": "Traits = stabile, überdauernde Persönlichkeitsmerkmale (im Gegensatz zu variablen Zuständen oder erlernten Fähigkeiten)."
+            },
+            {
+                "id": "le_gen_4",
+                "difficulty": "medium",
+                "stem": "Welche Kernmerkmale sagen laut Forschung berufliche Leistung vorher?",
+                "options": [
+                    {
+                        "text": "Kernmerkmale der Selbstbewertung und Gewissenhaftigkeit",
+                        "correct": true
+                    },
+                    {
+                        "text": "Nur Intelligenz",
+                        "correct": false
+                    },
+                    {
+                        "text": "Nur Extraversion",
+                        "correct": false
+                    },
+                    {
+                        "text": "Äußerliche Attraktivität",
+                        "correct": false
+                    }
+                ],
+                "source": "Handout Folgen Betrachtungsweise",
+                "explanation": "Forschung zeigt: Core Self-Evaluations (Kernmerkmale der Selbstbewertung) und Gewissenhaftigkeit sind Prädiktoren für Arbeitsleistung."
+            },
+            {
+                "id": "le_gen_5",
+                "difficulty": "hard",
+                "stem": "Was ist die Hauptannahme der evolutionspsychologischen Perspektive auf Leader Emergence?",
+                "options": [
+                    {
+                        "text": "Führungsmerkmale wurden durch natürliche und sexuelle Selektion geformt, weil sie Überlebens- und Fortpflanzungsvorteile boten",
+                        "correct": true
+                    },
+                    {
+                        "text": "Führung ist rein kulturell erlernt",
+                        "correct": false
+                    },
+                    {
+                        "text": "Evolution spielt keine Rolle für Führung",
+                        "correct": false
+                    },
+                    {
+                        "text": "Nur Männer haben evolutionär bedingte Führungsmerkmale",
+                        "correct": false
+                    }
+                ],
+                "source": "Probefragen - evolutionspsychologische Selektion",
+                "explanation": "Evolutionspsychologische Perspektive: Traits, die zu Führung prädisponieren, wurden evolutionär selektiert, weil sie Überlebens- und Fortpflanzungsvorteile brachten."
+            },
+            {
+                "id": "le_gen_6",
+                "difficulty": "medium",
+                "stem": "Was unterscheidet die Leader-Trait-Perspektive von situativen Führungstheorien?",
+                "options": [
+                    {
+                        "text": "Die Trait-Perspektive betont stabile persönliche Eigenschaften, situative Theorien betonen Kontextfaktoren",
+                        "correct": true
+                    },
+                    {
+                        "text": "Es gibt keinen Unterschied",
+                        "correct": false
+                    },
+                    {
+                        "text": "Situative Theorien sind älter",
+                        "correct": false
+                    },
+                    {
+                        "text": "Die Trait-Perspektive gilt als widerlegt",
+                        "correct": false
+                    }
+                ],
+                "source": "Leader-Trait-Theorie",
+                "explanation": "Klassischer Gegensatz: Trait-Ansatz = 'born leaders' (Person macht den Unterschied) vs. Situativer Ansatz = Kontext/Situation bestimmt effektives Führungsverhalten."
+            }
+        ],
+        "open_existing": [],
+        "open_generated": [
+            {
+                "id": "le_open_gen_1",
+                "difficulty": "medium",
+                "stem": "Erklären Sie die Leader-Trait-Perspektive und das LTEE-Modell.",
+                "modelAnswer": "Die Leader-Trait-Perspektive geht davon aus, dass bestimmte stabile Persönlichkeitsmerkmale (Traits) beeinflussen, wer zur Führungsperson wird (Leader Emergence) und wie erfolgreich diese Person führt (Leader Effectiveness).\n\nDas LTEE-Modell (Leader Trait Emergence Effectiveness) beschreibt den Zusammenhang:\n- Traits (z.B. Extraversion, Gewissenhaftigkeit) → beeinflussen\n- Leader Emergence (wer wird als Führungsperson wahrgenommen/ausgewählt) → beeinflusst\n- Leader Effectiveness (subjektiv: wie Leader bewertet werden; objektiv: messbare Gruppenergebnisse)\n\nEvolutionspsychologisch wird argumentiert, dass relevante Traits durch natürliche und sexuelle Selektion geformt wurden, weil sie Überlebens- und Fortpflanzungsvorteile boten.",
+                "keyPoints": [
+                    "stabile Traits",
+                    "Emergence = wer wird Leader",
+                    "Effectiveness = wie erfolgreich",
+                    "beides beeinflusst",
+                    "evolutionspsychologische Argumentation"
+                ]
+            }
+        ]
+    }
+}

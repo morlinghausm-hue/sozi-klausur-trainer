@@ -1,0 +1,332 @@
+{
+    "flashcards": [
+        {
+            "id": "fc_1_1",
+            "topicId": 1,
+            "topicName": "Psychological Safety",
+            "front": "Was ist Psychological Safety?",
+            "back": "Der Glaube, dass man in einem Team nicht bestraft oder bloßgestellt wird, wenn man Fragen stellt, Fehler zugibt oder neue Ideen einbringt.\n\n→ Ermöglicht Lernen und Innovation\n→ Gegenteil: Angstkultur\n→ Ursprung: Amy Edmondson",
+            "source": "Edmondson"
+        },
+        {
+            "id": "fc_1_2",
+            "topicId": 1,
+            "topicName": "Psychological Safety",
+            "front": "Was ist Humble Leadership?",
+            "back": "Führungsstil, bei dem die Führungskraft:\n• Eigene Grenzen und Fehler zugibt\n• Lernbereitschaft vorlebt\n• Andere um Feedback bittet\n\n→ Fördert Psychological Safety\n→ Signalisiert: Es ist OK, nicht perfekt zu sein",
+            "source": "Walters & Diab 2016"
+        },
+        {
+            "id": "fc_1_3",
+            "topicId": 1,
+            "topicName": "Psychological Safety",
+            "front": "Was ist Inclusive Leadership?",
+            "back": "Führungsstil, bei dem die Führungskraft:\n• Wertschätzung für Beiträge zeigt\n• Offenheit signalisiert\n• Andere aktiv einlädt, sich einzubringen\n\n→ Besonders wichtig in hierarchischen Teams\n→ Fördert Psychological Safety",
+            "source": "Nembhard & Edmondson 2006"
+        },
+        {
+            "id": "fc_1_4",
+            "topicId": 1,
+            "topicName": "Psychological Safety",
+            "front": "Wie heißt das Mediationsmodell zu Psychological Safety?",
+            "back": "Humble/Inclusive Leadership\n        ↓\nPsychological Safety (MEDIATOR)\n        ↓\nEngagement\n\n→ Leadership wirkt ÜBER PS auf Engagement\n→ PS ist der Mechanismus, nicht direkter Effekt",
+            "source": "Walters & Diab 2016"
+        },
+        {
+            "id": "fc_1_5",
+            "topicId": 1,
+            "topicName": "Psychological Safety",
+            "front": "Warum ist Psychological Safety besonders in interdisziplinären Teams wichtig?",
+            "back": "In interdisziplinären Teams:\n• Unterschiedliche Expertisen → Statusunterschiede\n• Höhere Hemmschwelle für niedrigeren Status\n• PS ermöglicht allen, wichtige Infos zu teilen\n\n→ Ohne PS bleiben kritische Hinweise ungehört",
+            "source": "Nembhard & Edmondson 2006"
+        },
+        {
+            "id": "fc_2_1",
+            "topicId": 2,
+            "topicName": "Transformationale & Transaktionale Führung",
+            "front": "Was ist Transformationale Führung?",
+            "back": "4 I's der Transformationalen Führung:\n• Idealized Influence (Vorbild)\n• Inspirational Motivation (Vision)\n• Intellectual Stimulation (Kreativität fördern)\n• Individual Consideration (individuelle Förderung)\n\n→ Passt zu PROMOTION FOCUS",
+            "source": "Bass, Hamstra et al."
+        },
+        {
+            "id": "fc_2_2",
+            "topicId": 2,
+            "topicName": "Transformationale & Transaktionale Führung",
+            "front": "Was ist Transaktionale Führung?",
+            "back": "Transaktionale Führung:\n• Contingent Reward (Belohnung für Leistung)\n• Management by Exception (Korrektur bei Abweichung)\n• Klare Strukturen und Regeln\n• Fokus auf Stabilität\n\n→ Passt zu PREVENTION FOCUS",
+            "source": "Bass, Hamstra et al."
+        },
+        {
+            "id": "fc_2_3",
+            "topicId": 2,
+            "topicName": "Transformationale & Transaktionale Führung",
+            "front": "Was ist Regulatory Fit?",
+            "back": "PASSUNG zwischen Führungsstil und Selbstregulation:\n\n• Transformational ↔ Promotion Focus = FIT ✓\n• Transaktional ↔ Prevention Focus = FIT ✓\n\nBei Fit:\n→ Verhalten 'fühlt sich richtig an'\n→ Mehr Wertschätzung (Feeling Valued)\n→ Höhere Zufriedenheit",
+            "source": "Hamstra 2011, 2014"
+        },
+        {
+            "id": "fc_2_4",
+            "topicId": 2,
+            "topicName": "Transformationale & Transaktionale Führung",
+            "front": "Was ist Promotion Focus vs. Prevention Focus?",
+            "back": "PROMOTION FOCUS:\n• Orientierung an Wachstum, Chancen\n• Fokus auf Gewinne und Ideale\n• Risikobereiter\n\nPREVENTION FOCUS:\n• Orientierung an Sicherheit, Pflichten\n• Fokus auf Verlust-Vermeidung\n• Vorsichtiger",
+            "source": "Higgins - Regulatory Focus Theory"
+        },
+        {
+            "id": "fc_2_5",
+            "topicId": 2,
+            "topicName": "Transformationale & Transaktionale Führung",
+            "front": "Welcher Führungsstil ist besser - Transformational oder Transaktional?",
+            "back": "KEINER ist universell besser!\n\nEs kommt auf die PASSUNG an:\n• Zum Mitarbeitenden (Regulatory Focus)\n• Zur Aufgabe\n• Zum Kontext\n\n→ One-size-fits-all funktioniert nicht\n→ FK wählt oft Stil nach eigenem Focus",
+            "source": "Hamstra et al."
+        },
+        {
+            "id": "fc_3_1",
+            "topicId": 3,
+            "topicName": "Standardeffekte von Macht",
+            "front": "Was ist die Definition von sozialer Macht?",
+            "back": "A hat Macht über B, wenn:\nA asymmetrische Kontrolle über wichtige Ressourcen von B hat.\n\n⚠️ Unterscheidung wichtig:\n• Macht = POTENZIAL zur Beeinflussung\n• Einfluss = tatsächliche AUSÜBUNG",
+            "source": "Magee, Gruenfeld"
+        },
+        {
+            "id": "fc_3_2",
+            "topicId": 3,
+            "topicName": "Standardeffekte von Macht",
+            "front": "Was sind die drei Standardeffekte von Macht?",
+            "back": "1. HANDLUNGSORIENTIERUNG\n   → Mächtige initiieren mehr, sind proaktiver\n\n2. ENTHEMMUNG (Disinhibition)\n   → Weniger durch soziale Regeln gebunden\n\n3. OBJEKTIFIZIERUNG\n   → Andere werden nach Nützlichkeit bewertet\n\n⚠️ NICHT unvermeidlich - Moderatoren beachten!",
+            "source": "Gruenfeld et al. 2008"
+        },
+        {
+            "id": "fc_3_3",
+            "topicId": 3,
+            "topicName": "Standardeffekte von Macht",
+            "front": "Was ist das Approach-Inhibition-Modell?",
+            "back": "MACHT aktiviert APPROACH-System:\n• Fokus auf Belohnungen/Ziele\n• Optimismus, Risikobereitschaft\n• Weniger Aufmerksamkeit für Gefahren\n\nMACHTLOSIGKEIT aktiviert INHIBITION-System:\n• Fokus auf Gefahren/Strafen\n• Vorsicht, Zurückhaltung\n\n→ Erklärt die Standardeffekte!",
+            "source": "Keltner et al."
+        },
+        {
+            "id": "fc_3_4",
+            "topicId": 3,
+            "topicName": "Standardeffekte von Macht",
+            "front": "Welche Moderatoren beeinflussen die Standardeffekte von Macht?",
+            "back": "1. ACCOUNTABILITY (Rechenschaftspflicht)\n   → Mindert negative Effekte\n   → Mächtige verhalten sich prosozial\n\n2. SYSTEMSTABILITÄT\n   → Bei instabilem System: Vorsichtiger\n\n→ Negative Effekte sind NICHT unvermeidlich!",
+            "source": "Magee et al."
+        },
+        {
+            "id": "fc_3_5",
+            "topicId": 3,
+            "topicName": "Standardeffekte von Macht",
+            "front": "Was bedeutet Objektifizierung durch Macht?",
+            "back": "Mächtige neigen dazu:\n• Andere primär nach NÜTZLICHKEIT zu bewerten\n• Weniger die Person als Ganzes zu sehen\n• Instrumentelle Sicht auf andere\n\n→ Kann zu problematischem Verhalten führen\n→ Moderiert durch Accountability",
+            "source": "Gruenfeld et al. 2008"
+        },
+        {
+            "id": "fc_4_1",
+            "topicId": 4,
+            "topicName": "Folgen instabiler Macht",
+            "front": "Was passiert bei Macht + Inkompetenz?",
+            "back": "INTERAKTIONSEFFEKT:\n\nMacht + wahrgenommene Inkompetenz\n        ↓\nEgo-Bedrohung (Defensiveness)\n        ↓\nAGGRESSION\n\n⚠️ Weder Macht noch Inkompetenz ALLEIN führen zu Aggression - nur die KOMBINATION!",
+            "source": "Fast & Chen 2009"
+        },
+        {
+            "id": "fc_4_2",
+            "topicId": 4,
+            "topicName": "Folgen instabiler Macht",
+            "front": "Wie kann man Aggression bei inkompetenten Mächtigen verhindern?",
+            "back": "Durch SELBSTAFFIRMATION:\n\nWenn der Selbstwert auf anderem Wege gestärkt wird (z.B. wichtige Werte reflektieren), ist die Ego-Bedrohung weniger bedrohlich.\n\n→ Aggression wird NEUTRALISIERT\n→ Praktische Intervention möglich!",
+            "source": "Fast & Chen 2009, Studie 3&4"
+        },
+        {
+            "id": "fc_4_3",
+            "topicId": 4,
+            "topicName": "Folgen instabiler Macht",
+            "front": "Was unterscheidet legitime von illegitimer Macht?",
+            "back": "LEGITIME Macht:\n• Basiert auf Verdienst/Leistung\n• Kompetenz vorhanden\n• Soziale Zustimmung\n\nILLEGITIME Macht:\n• Diese Grundlagen fehlen\n• Instabil\n• Wird eher herausgefordert",
+            "source": "Willis et al. 2010"
+        },
+        {
+            "id": "fc_4_4",
+            "topicId": 4,
+            "topicName": "Folgen instabiler Macht",
+            "front": "Was passiert mit illegitim Machtlosen?",
+            "back": "Sie zeigen NICHT die typischen Nachteile:\n\n✓ Treffen schneller Entscheidungen\n✓ Finden mehr Wege zum Ziel\n✓ Geben nicht so schnell auf\n\n→ Illegitime Machtlosigkeit = 'protektiver Faktor'\n→ Weil als ungerecht erlebt → motiviert",
+            "source": "Willis et al. 2010"
+        },
+        {
+            "id": "fc_4_5",
+            "topicId": 4,
+            "topicName": "Folgen instabiler Macht",
+            "front": "Warum führt illegitime Machtlosigkeit zu besserer Zielverfolgung?",
+            "back": "Vermutete Erklärung:\n• Als ungerecht erlebte Position → kognitive Dissonanz\n• Motivation, Status zu ändern\n• Stärkere Fokussierung auf Aufgabe\n\n→ Im Gegensatz zu legitim Machtlosen, die Situation eher akzeptieren",
+            "source": "Willis et al. 2010"
+        },
+        {
+            "id": "fc_5_1",
+            "topicId": 5,
+            "topicName": "Folgen der Betrachtungsweise von Macht",
+            "front": "Was sind die zwei Betrachtungsweisen von Macht?",
+            "back": "1. MACHT ALS OPPORTUNITY (Chance)\n   • Eigene Ziele verfolgen\n   • Freiheit und Gestaltung\n   • Attraktiv für Promotion Focus\n\n2. MACHT ALS RESPONSIBILITY (Verantwortung)\n   • Pflichten gegenüber anderen\n   • Rechenschaftspflicht",
+            "source": "Sassenberg et al. 2012"
+        },
+        {
+            "id": "fc_5_2",
+            "topicId": 5,
+            "topicName": "Folgen der Betrachtungsweise von Macht",
+            "front": "Wann ist Macht besonders attraktiv?",
+            "back": "Macht als CHANCE dargestellt:\n→ Hohe Macht attraktiver als niedrige\n→ Besonders für Promotion Focus\n\nMacht als VERANTWORTUNG dargestellt:\n→ Kein Unterschied in Attraktivität\n\n⚠️ Formulierung beeinflusst, wer sich bewirbt!",
+            "source": "Sassenberg et al. 2012"
+        },
+        {
+            "id": "fc_5_3",
+            "topicId": 5,
+            "topicName": "Folgen der Betrachtungsweise von Macht",
+            "front": "Wie beeinflusst die Machtmotivation des Chefs die Dyade?",
+            "back": "Machtmotivation des Chefs beeinflusst Leistungsmotivation der GANZEN DYADE:\n\n→ Klare Hierarchie = Fokus auf Aufgabe\n→ Überzeugender Auftritt = Respekt\n→ Wechselseitige Motivation\n\nPraktisch: 'Gewollte Führung' ist besser",
+            "source": "Schmid Mast et al. 2010"
+        },
+        {
+            "id": "fc_5_4",
+            "topicId": 5,
+            "topicName": "Folgen der Betrachtungsweise von Macht",
+            "front": "Warum beeinflusst die Formulierung von Machtpositionen, wer sich bewirbt?",
+            "back": "Regulatory Focus als Moderator:\n\n• Promotion Focus → angezogen von 'Chance'\n• Prevention Focus → neutral\n\n→ Stellenausschreibungen können systematisch bestimmte Persönlichkeiten anziehen\n→ Relevanz für Personalauswahl!",
+            "source": "Sassenberg et al. 2012"
+        },
+        {
+            "id": "fc_6_1",
+            "topicId": 6,
+            "topicName": "Macht und Vertrauen",
+            "front": "Was sind die drei Komponenten von Vertrauen?",
+            "back": "1. WOHLWOLLEN (Benevolenz)\n   → Glaube an gute Absichten\n\n2. INTEGRITÄT\n   → Werte werden im Handeln umgesetzt\n\n3. FÄHIGKEIT (Ability)\n   → Kompetenz, Aufgaben zu erfüllen\n\n→ Alle drei für Vertrauen wichtig!",
+            "source": "Mayer et al."
+        },
+        {
+            "id": "fc_6_2",
+            "topicId": 6,
+            "topicName": "Macht und Vertrauen",
+            "front": "Welche Machtdarstellung führt zu mehr Vertrauen?",
+            "back": "MACHT ALS VERANTWORTUNG:\n\n→ Als wohlwollender wahrgenommen\n→ Als integrer wahrgenommen\n→ Mehr Vertrauen\n\nMacht als CHANCE:\n→ Als mächtiger wahrgenommen\n→ ABER: weniger vertrauenswürdig",
+            "source": "Scholl & Winter 2024"
+        },
+        {
+            "id": "fc_6_3",
+            "topicId": 6,
+            "topicName": "Macht und Vertrauen",
+            "front": "Was ist Power Granting?",
+            "back": "Die Bereitschaft, jemandem Macht zu ÜBERTRAGEN.\n\nModell:\nBenevolenz (UV)\n    ↓\nVerantwortungserleben (Mediator)\n    ↓\nPower Granting (AV)\n    × moderiert durch Integrität\n\n→ Hohe Benevolenz + hohe Integrität = höchstes Power Granting",
+            "source": "Scholl et al. 2025"
+        },
+        {
+            "id": "fc_6_4",
+            "topicId": 6,
+            "topicName": "Macht und Vertrauen",
+            "front": "Warum bekommen verantwortungsorientierte FK mehr Macht übertragen?",
+            "back": "Weil sie als verantwortungsbewusst wahrgenommen werden:\n\n• Other-focused statt self-focused\n• Wohlwollend gegenüber Team\n• Integer in ihrem Handeln\n\n→ Menschen trauen ihnen Macht zu\n→ Vertrauen als Basis für Delegation",
+            "source": "Scholl & Winter 2024"
+        },
+        {
+            "id": "fc_7_1",
+            "topicId": 7,
+            "topicName": "Soziale Identität & Prototypikalität",
+            "front": "Was ist ein Prototyp im Gruppenkontext?",
+            "back": "Abstrakte Menge an Merkmalen, die:\n• Ähnlichkeiten INNERHALB der Gruppe erfassen\n• Unterschiede zur OUTGROUP maximieren\n\n⚠️ Kein reales Individuum!\n→ Es gibt einen GRADIENTEN\n→ Manche sind prototypischer als andere",
+            "source": "Hogg"
+        },
+        {
+            "id": "fc_7_2",
+            "topicId": 7,
+            "topicName": "Soziale Identität & Prototypikalität",
+            "front": "Was besagt die Social Identity Theory of Leadership?",
+            "back": "Bei HOHER GRUPPENSALIENZ:\n\nPrototypikalität wird WICHTIGER für Führungslegitimität als allgemeine Führungsschemata (z.B. Charisma)\n\n→ Führung = GRUPPENPROZESS\n→ Nicht nur individuelle Eigenschaften",
+            "source": "Hogg"
+        },
+        {
+            "id": "fc_7_3",
+            "topicId": 7,
+            "topicName": "Soziale Identität & Prototypikalität",
+            "front": "Was ist der License-to-Fail-Effekt?",
+            "back": "Prototypische Leader bekommen 'FEHLERBONUS':\n\nBei ERFOLG:\n→ Kein Unterschied prototypisch vs. nicht-prototypisch\n\nBei MISSERFOLG:\n→ Prototypische werden MILDER beurteilt\n\n→ Vertrauen ist der MEDIATOR",
+            "source": "Giessner et al. 2009"
+        },
+        {
+            "id": "fc_7_4",
+            "topicId": 7,
+            "topicName": "Soziale Identität & Prototypikalität",
+            "front": "Warum werden prototypische Leader bei Misserfolg milder beurteilt?",
+            "back": "Vertrauen als Mediator:\n\n• Prototypische = 'einer von uns'\n• Wir vertrauen ihnen mehr\n• Misserfolg wird als Pech gesehen\n• Weniger Schuldzuschreibung\n\n→ License-to-Fail = Vertrauensvorschuss",
+            "source": "Giessner et al. 2009"
+        },
+        {
+            "id": "fc_7_5",
+            "topicId": 7,
+            "topicName": "Soziale Identität & Prototypikalität",
+            "front": "Ist Prototypikalität eines Leaders stabil?",
+            "back": "NEIN - Prototypikalität ist DYNAMISCH:\n\n• ERFOLG erhöht wahrgenommene Prototypikalität\n• MISSERFOLG senkt sie\n\n→ Leader können Position aktiv gestalten\n→ Durch Re-Definition des Gruppenprototyps möglich",
+            "source": "Hogg, Giessner"
+        },
+        {
+            "id": "fc_8_1",
+            "topicId": 8,
+            "topicName": "Leader Emergence & Persönlichkeit",
+            "front": "Was besagt die Leader-Trait-Perspektive?",
+            "back": "STABILE Persönlichkeitsmerkmale (Traits) beeinflussen:\n\n1. Leader EMERGENCE\n   → Wer wird zur Führungsperson?\n\n2. Leader EFFECTIVENESS\n   → Wie erfolgreich führt die Person?\n\n→ Traits ≠ Destiny, aber Einfluss!",
+            "source": "Judge et al."
+        },
+        {
+            "id": "fc_8_2",
+            "topicId": 8,
+            "topicName": "Leader Emergence & Persönlichkeit",
+            "front": "Was ist das LTEE-Modell?",
+            "back": "Leader Trait Emergence Effectiveness Modell:\n\nTrait → Emergence → Effectiveness\n\n• Traits beeinflussen, ob man Leader WIRD\n• ...und wie effektiv man dann IST\n\n→ Emergence vermittelt teilweise",
+            "source": "Judge et al."
+        },
+        {
+            "id": "fc_8_3",
+            "topicId": 8,
+            "topicName": "Leader Emergence & Persönlichkeit",
+            "front": "Welche Big Five Traits hängen mit Führung zusammen?",
+            "back": "POSITIVE Zusammenhänge:\n• Extraversion ✓ (stärkster)\n• Offenheit ✓\n• Gewissenhaftigkeit ✓\n\nNEGATIVER Zusammenhang:\n• Neurotizismus ✗\n\nVerträglichkeit: Gemischt/Kontextabhängig",
+            "source": "Meta-Analysen"
+        },
+        {
+            "id": "fc_8_4",
+            "topicId": 8,
+            "topicName": "Leader Emergence & Persönlichkeit",
+            "front": "Was ist die evolutionspsychologische Perspektive auf Leader Emergence?",
+            "back": "Führungsmerkmale wurden durch SELEKTION geformt:\n\n• Natürliche Selektion → Gruppenüberleben\n• Sexuelle Selektion → Attraktivität\n\n→ Leadership-Traits könnten adaptive Vorteile gehabt haben\n→ Kontroverse Perspektive",
+            "source": "ImpulseZumLernen"
+        },
+        {
+            "id": "fc_9_1",
+            "topicId": 9,
+            "topicName": "Leadership & Digitalization",
+            "front": "Warum ist hierarchische Führung in virtuellen Teams weniger effektiv?",
+            "back": "Typische Führungsmechanismen FEHLEN:\n• Direkte Überwachung/Kontrolle\n• Persönliche Präsenz\n• Spontane Interaktion\n• Nonverbale Kommunikation\n\n→ Virtualität MODERIERT den Zusammenhang Führung ↔ Teamleistung",
+            "source": "Hoch & Kozlowski 2014"
+        },
+        {
+            "id": "fc_9_2",
+            "topicId": 9,
+            "topicName": "Leadership & Digitalization",
+            "front": "Was kann hierarchische Führung in virtuellen Teams kompensieren?",
+            "back": "1. STRUKTURELLE UNTERSTÜTZUNG\n   • Klare Prozesse und Regeln\n   • Formalisierte Strukturen\n   • Explizite Kommunikation\n\n2. SHARED LEADERSHIP\n   • Führung auf mehrere verteilt\n   • Mehr Autonomie\n\n→ Beide werden bei hoher Virtualität WICHTIGER",
+            "source": "Hoch & Kozlowski 2014"
+        },
+        {
+            "id": "fc_9_3",
+            "topicId": 9,
+            "topicName": "Leadership & Digitalization",
+            "front": "Was ist Shared Leadership?",
+            "back": "Führung wird auf MEHRERE TEAMMITGLIEDER verteilt:\n\n• Nicht nur eine Person führt\n• Wechselnde Führung je nach Expertise\n• Mehr Autonomie für Einzelne\n\n→ Besonders effektiv in virtuellen Teams\n→ Kompensiert fehlende hierarchische Präsenz",
+            "source": "Hoch & Kozlowski 2014"
+        },
+        {
+            "id": "fc_9_4",
+            "topicId": 9,
+            "topicName": "Leadership & Digitalization",
+            "front": "Was ist das Hauptergebnis von Hoch & Kozlowski (2014)?",
+            "back": "Virtualität MODERIERT den Zusammenhang zwischen Führungstyp und Teamleistung:\n\n• BEI NIEDRIGER Virtualität: Hierarchische Führung effektiv\n• BEI HOHER Virtualität: Shared Leadership + Strukturelle Unterstützung wichtiger\n\n→ Führungsstil an Kontext anpassen!",
+            "source": "Hoch & Kozlowski 2014"
+        }
+    ]
+}

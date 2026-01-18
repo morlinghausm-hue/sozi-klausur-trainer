@@ -1,0 +1,302 @@
+{
+    "topic": {
+        "id": 4,
+        "name": "Folgen instabiler Macht",
+        "date": "2025-12-03",
+        "keyPapers": [
+            "Fast & Chen 2009",
+            "Willis et al. 2010"
+        ],
+        "keyConcepts": [
+            "Macht + Inkompetenz → Aggression (Ego-Bedrohung)",
+            "Selbstaffirmation kann Aggression neutralisieren",
+            "Illegitime Machtlosigkeit → bessere Zielverfolgung",
+            "Illegitime Macht = instabil, wird eher herausgefordert"
+        ],
+        "focusFromImpulse": "Moderator Inkompetenz; Moderator Legitimität"
+    },
+    "questions": {
+        "mc_existing": [],
+        "mc_generated": [
+            {
+                "id": "fim_gen_1",
+                "difficulty": "easy",
+                "stem": "Was passiert laut Fast & Chen (2009), wenn Machthabende sich inkompetent fühlen?",
+                "options": [
+                    {
+                        "text": "Sie zeigen vermehrt aggressives Verhalten",
+                        "correct": true
+                    },
+                    {
+                        "text": "Sie werden besonders kooperativ",
+                        "correct": false
+                    },
+                    {
+                        "text": "Sie geben freiwillig Macht ab",
+                        "correct": false
+                    },
+                    {
+                        "text": "Ihr Verhalten ändert sich nicht",
+                        "correct": false
+                    }
+                ],
+                "source": "Handout Folgen instabiler Macht",
+                "explanation": "Macht + selbstwahrgenommene Inkompetenz → Ego-Bedrohung (Ego Defensiveness) → Aggression als häufige Reaktion."
+            },
+            {
+                "id": "fim_gen_2",
+                "difficulty": "medium",
+                "stem": "Warum führt die Kombination von Macht und Inkompetenz zu Aggression?",
+                "options": [
+                    {
+                        "text": "Weil der Selbstwert bedroht wird (Ego Defensiveness)",
+                        "correct": true
+                    },
+                    {
+                        "text": "Weil Inkompetente generell aggressiver sind",
+                        "correct": false
+                    },
+                    {
+                        "text": "Weil Macht immer zu Aggression führt",
+                        "correct": false
+                    },
+                    {
+                        "text": "Weil Mitarbeitende die Führungskraft provozieren",
+                        "correct": false
+                    }
+                ],
+                "source": "Handout Folgen instabiler Macht - H1",
+                "explanation": "Macht erhöht das Gefühl, kompetent sein zu MÜSSEN. Inkompetenz bedroht dann den Selbstwert, was zu defensiver Aggression führt."
+            },
+            {
+                "id": "fim_gen_3",
+                "difficulty": "medium",
+                "stem": "Was kann laut Fast & Chen die Aggression bei inkompetenten Machthabenden neutralisieren?",
+                "options": [
+                    {
+                        "text": "Selbstaffirmation (Stärkung des Selbstwertgefühls)",
+                        "correct": true
+                    },
+                    {
+                        "text": "Mehr Macht",
+                        "correct": false
+                    },
+                    {
+                        "text": "Kritisches Feedback",
+                        "correct": false
+                    },
+                    {
+                        "text": "Öffentliche Bloßstellung",
+                        "correct": false
+                    }
+                ],
+                "source": "Handout Folgen instabiler Macht - H2",
+                "explanation": "Selbstaffirmation = Selbstwertstärkung. Diese reduziert die Ego-Bedrohung und damit die Aggressionsneigung. Die Studien 3&4 bestätigten dies."
+            },
+            {
+                "id": "fim_gen_4",
+                "difficulty": "hard",
+                "stem": "Was zeigten die Studien 1&2 von Fast & Chen bezüglich der Haupteffekte?",
+                "options": [
+                    {
+                        "text": "Keine Haupteffekte von Macht oder Kompetenz allein, nur Interaktionseffekt",
+                        "correct": true
+                    },
+                    {
+                        "text": "Macht allein führte bereits zu Aggression",
+                        "correct": false
+                    },
+                    {
+                        "text": "Inkompetenz allein führte zu Aggression",
+                        "correct": false
+                    },
+                    {
+                        "text": "Beide Faktoren wirkten unabhängig voneinander",
+                        "correct": false
+                    }
+                ],
+                "source": "Handout Folgen instabiler Macht - Ergebnisse",
+                "explanation": "Wichtig: Weder Macht noch Inkompetenz allein führten zu Aggression. Nur die KOMBINATION (Interaktionseffekt) zeigte den Effekt."
+            },
+            {
+                "id": "fim_gen_5",
+                "difficulty": "easy",
+                "stem": "Was versteht man unter 'illegitimer' Macht?",
+                "options": [
+                    {
+                        "text": "Macht, die nicht durch Leistung, Kompetenz oder soziale Zustimmung gerechtfertigt ist",
+                        "correct": true
+                    },
+                    {
+                        "text": "Macht, die illegal erworben wurde",
+                        "correct": false
+                    },
+                    {
+                        "text": "Macht über illegale Aktivitäten",
+                        "correct": false
+                    },
+                    {
+                        "text": "Jede Form von hierarchischer Macht",
+                        "correct": false
+                    }
+                ],
+                "source": "Handout Folgen instabiler Macht - Willis et al.",
+                "explanation": "Legitime Macht basiert auf: 1) Leistung/Verdienst, 2) Kompetenz, 3) soziale Zustimmung. Fehlen diese, wird Macht als illegitim wahrgenommen."
+            },
+            {
+                "id": "fim_gen_6",
+                "difficulty": "medium",
+                "stem": "Was passiert laut Willis et al. (2010) mit Machtlosen, die ihre Position als illegitim wahrnehmen?",
+                "options": [
+                    {
+                        "text": "Sie zeigen bessere Zielverfolgung als legitim Machtlose",
+                        "correct": true
+                    },
+                    {
+                        "text": "Sie werden depressiv und passiv",
+                        "correct": false
+                    },
+                    {
+                        "text": "Sie akzeptieren ihre Position schneller",
+                        "correct": false
+                    },
+                    {
+                        "text": "Sie zeigen die typischen Nachteile von Machtlosigkeit",
+                        "correct": false
+                    }
+                ],
+                "source": "Handout Folgen instabiler Macht - Willis et al.",
+                "explanation": "Illegitime Machtlosigkeit wirkt protektiv: Betroffene treffen schneller Entscheidungen, finden mehr Wege zur Zielerreichung und geben nicht so schnell auf."
+            },
+            {
+                "id": "fim_gen_7",
+                "difficulty": "hard",
+                "stem": "Was ist die Implikation von illegitimer Macht für die Stabilität von Machtverhältnissen?",
+                "options": [
+                    {
+                        "text": "Illegitime Machtverhältnisse sind instabil, da Machtlose aktiver und widerstandsbereiter werden",
+                        "correct": true
+                    },
+                    {
+                        "text": "Illegitime Macht ist stabiler, weil niemand sie in Frage stellt",
+                        "correct": false
+                    },
+                    {
+                        "text": "Die Legitimität hat keinen Einfluss auf die Stabilität",
+                        "correct": false
+                    },
+                    {
+                        "text": "Machtlose akzeptieren illegitime Macht schneller",
+                        "correct": false
+                    }
+                ],
+                "source": "Handout Folgen instabiler Macht - Implikation",
+                "explanation": "Wenn Machtlose die Macht über ihnen als illegitim wahrnehmen, reagieren sie weniger gehemmt und sind eher bereit, das Machtverhältnis herauszufordern."
+            },
+            {
+                "id": "fim_gen_8",
+                "difficulty": "easy",
+                "stem": "Was ist eine Take-Home-Message aus Fast & Chen (2009)?",
+                "options": [
+                    {
+                        "text": "Macht macht nicht automatisch aggressiv - nur in Kombination mit Inkompetenz",
+                        "correct": true
+                    },
+                    {
+                        "text": "Alle Mächtigen sind aggressiv",
+                        "correct": false
+                    },
+                    {
+                        "text": "Inkompetenz ist der einzige Faktor für Aggression",
+                        "correct": false
+                    },
+                    {
+                        "text": "Aggression bei Mächtigen kann nicht verhindert werden",
+                        "correct": false
+                    }
+                ],
+                "source": "Handout Folgen instabiler Macht - Take Home",
+                "explanation": "Zentrale Botschaft: Macht allein führt NICHT zu Aggression. Erst wenn sich Mächtige inkompetent fühlen (und ihr Ego bedroht ist), kommt es zu Aggression."
+            },
+            {
+                "id": "fim_gen_9",
+                "difficulty": "medium",
+                "stem": "Welche Komponenten der Zielerreichung wurden in der Willis-Studie untersucht?",
+                "options": [
+                    {
+                        "text": "Zielsetzung, Zielverfolgung, Durchhaltevermögen",
+                        "correct": true
+                    },
+                    {
+                        "text": "Motivation, Kompetenz, Ressourcen",
+                        "correct": false
+                    },
+                    {
+                        "text": "Planung, Delegation, Kontrolle",
+                        "correct": false
+                    },
+                    {
+                        "text": "Kommunikation, Kooperation, Führung",
+                        "correct": false
+                    }
+                ],
+                "source": "Handout Folgen instabiler Macht - Willis Studien",
+                "explanation": "Willis et al. untersuchten drei Komponenten: 1) Zielsetzung (Entscheidungsgeschwindigkeit), 2) Zielverfolgung (Anzahl der Wege zum Ziel), 3) Durchhaltevermögen."
+            },
+            {
+                "id": "fim_gen_10",
+                "difficulty": "hard",
+                "stem": "Was ist ein limitierender Befund in Studie 2 von Willis et al. bezüglich des Durchhaltevermögens?",
+                "options": [
+                    {
+                        "text": "Illegitim Machtlose gaben nicht weniger schnell auf als die Kontrollbedingung, nur legitim Machtlose waren schlechter",
+                        "correct": true
+                    },
+                    {
+                        "text": "Illegitim Machtlose waren in allen Bereichen besser als die Kontrollbedingung",
+                        "correct": false
+                    },
+                    {
+                        "text": "Es gab keine Unterschiede zwischen legitim und illegitim Machtlosen",
+                        "correct": false
+                    },
+                    {
+                        "text": "Durchhaltevermögen wurde nicht gemessen",
+                        "correct": false
+                    }
+                ],
+                "source": "Handout Folgen instabiler Macht - Studie 2",
+                "explanation": "Differenziertes Ergebnis: Legitim Machtlose < Illegitim Machtlose = Kontrollbedingung. Die Hypothese wurde nur teilweise bestätigt (illegitim = neutral, nicht besser)."
+            }
+        ],
+        "open_existing": [],
+        "open_generated": [
+            {
+                "id": "fim_open_gen_1",
+                "difficulty": "medium",
+                "stem": "Erklären Sie den Zusammenhang zwischen Macht, Inkompetenz und Aggression nach Fast & Chen (2009).",
+                "modelAnswer": "Nach Fast & Chen erhöht soziale Macht das Gefühl, kompetent sein zu müssen. Wenn Machthabende sich als inkompetent wahrnehmen, entsteht eine Diskrepanz zwischen dem Anspruch und der Realität. Dies führt zu einer Bedrohung des Egos (Ego Defensiveness). Als Reaktion auf diese Selbstwertbedrohung zeigen Machthabende vermehrt aggressives Verhalten. Wichtig: Weder Macht noch Inkompetenz allein führen zu Aggression - nur die Kombination (Interaktionseffekt). Selbstaffirmation kann diesen Effekt neutralisieren, indem sie den Selbstwert auf anderem Wege stärkt.",
+                "keyPoints": [
+                    "Macht erhöht Kompetenzanspruch",
+                    "Inkompetenz = Diskrepanz",
+                    "Ego-Bedrohung",
+                    "Interaktionseffekt",
+                    "Selbstaffirmation als Puffer"
+                ]
+            },
+            {
+                "id": "fim_open_gen_2",
+                "difficulty": "hard",
+                "stem": "Vergleichen Sie die Auswirkungen von legitimer und illegitimer Machtlosigkeit auf die Zielverfolgung.",
+                "modelAnswer": "Bei legitimer Machtlosigkeit zeigen sich die typischen Nachteile: langsamere Entscheidungen, weniger Wege zur Zielerreichung, schnelleres Aufgeben bei Schwierigkeiten.\n\nBei illegitimer Machtlosigkeit sind diese Nachteile deutlich reduziert oder verschwinden ganz: Betroffene treffen schneller Entscheidungen, finden mehr Wege zum Ziel und zeigen mehr Durchhaltevermögen.\n\nDie Erklärung: Illegitime Machtlosigkeit wirkt als protektiver Faktor. Die Wahrnehmung, dass die eigene niedrige Position ungerechtfertigt ist, motiviert zur Aktivität und Widerstand. Dies macht illegitime Machtverhältnisse auch weniger stabil, da Machtlose eher bereit sind, diese herauszufordern.",
+                "keyPoints": [
+                    "legitim: typische Nachteile",
+                    "illegitim: reduzierte Nachteile",
+                    "protektiver Faktor",
+                    "mehr Motivation",
+                    "instabilere Machtverhältnisse"
+                ]
+            }
+        ]
+    }
+}
