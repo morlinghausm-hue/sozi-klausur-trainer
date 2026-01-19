@@ -21,6 +21,9 @@ async function initApp() {
     renderExamCountdown();
     updateProgressView();
 
+    // Initialize Flashcards (after data is loaded)
+    loadFlashcards();
+
     // Setup Event-Listeners
     setupEventListeners();
 

@@ -428,5 +428,5 @@ document.addEventListener('keydown', (e) => {
     }
 });
 
-// Lade beim Start
-document.addEventListener('DOMContentLoaded', loadFlashcards);
+// Export functions if needed, or rely on global scope
+// document.addEventListener('DOMContentLoaded', loadFlashcards); // Removed to be handled by app.js

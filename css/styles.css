@@ -1040,6 +1040,35 @@ body {
     justify-content: center;
     box-shadow: var(--shadow-lg);
     overflow-y: auto;
+    scrollbar-width: thin;
+    /* Firefox */
+    scrollbar-color: rgba(255, 255, 255, 0.3) transparent;
+    /* Firefox */
+}
+
+/* Custom scrollbar for flashcards */
+.flashcard-front::-webkit-scrollbar,
+.flashcard-back::-webkit-scrollbar {
+    width: 6px;
+}
+
+.flashcard-front::-webkit-scrollbar-track,
+.flashcard-back::-webkit-scrollbar-track {
+    background: transparent;
+    margin: 8px 0;
+    /* Add margin to top/bottom of track */
+}
+
+.flashcard-front::-webkit-scrollbar-thumb,
+.flashcard-back::-webkit-scrollbar-thumb {
+    background: rgba(255, 255, 255, 0.3);
+    border-radius: 3px;
+    border: 1px solid transparent;
+}
+
+.flashcard-front::-webkit-scrollbar-thumb:hover,
+.flashcard-back::-webkit-scrollbar-thumb:hover {
+    background: rgba(255, 255, 255, 0.5);
 }
 
 .flashcard-front {
