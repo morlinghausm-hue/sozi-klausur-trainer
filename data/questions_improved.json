@@ -312,22 +312,22 @@
     },
     {
       "id": "ps_gen_1",
-      "stem": "In der NICU-Studie wurde gezeigt, warum Psychological Safety in hierarchischen Krankenhausteams besonders relevant ist. Was ist der Hauptgrund?",
+      "stem": "Warum ist psychological safety besonders wichtig in interdisziplinären Teams mit Hierarchien?",
       "options": [
         {
-          "text": "Mitarbeitende mit geringerem Status äußern Bedenken seltener, wenn sie negative Reaktionen befürchten",
+          "text": "Weil interdisziplinäre Teams aufgrund ihrer Vielfalt weniger stabil arbeiten",
+          "correct": false
+        },
+        {
+          "text": "Weil Hierarchien zu schnelleren Entscheidungsprozessen führen",
+          "correct": false
+        },
+        {
+          "text": "Weil niedrigstatusige Mitglieder sich sonst nicht trauen, Hinweise zu geben",
           "correct": true
         },
         {
-          "text": "Statusunterschiede erzeugen Respekt, der die Kommunikation im Team verbessert",
-          "correct": false
-        },
-        {
-          "text": "Hierarchien sorgen für klare Zuständigkeiten bei kritischen Entscheidungen",
-          "correct": false
-        },
-        {
-          "text": "Interdisziplinäre Teams profitieren von unterschiedlichen Perspektiven bei Problemlösungen",
+          "text": "Weil interdisziplinäre Expertise zu Konflikten zwischen Fachbereichen führt",
           "correct": false
         }
       ],
@@ -379,19 +379,19 @@
       "stem": "In welcher Situation ist humble leadership laut Forschung WENIGER effektiv?",
       "options": [
         {
-          "text": "Wenn Mitarbeitende sehr erfahren und selbstständig arbeiten",
+          "text": "In großen Unternehmen",
           "correct": false
         },
         {
-          "text": "Wenn die Teams besonders groß und heterogen sind",
+          "text": "Wenn Mitarbeitende jung sind",
           "correct": false
         },
         {
-          "text": "Bei Zeitdruck oder wenn schnelle Entscheidungen nötig sind",
+          "text": "Bei Zeitdruck oder Bedrohungssituationen",
           "correct": true
         },
         {
-          "text": "Wenn Mitarbeitende erst seit kurzem im Unternehmen sind",
+          "text": "Humble leadership wirkt unabhängig vom Kontext gleich gut",
           "correct": false
         }
       ],
@@ -540,11 +540,11 @@
       "stem": "Was bedeutet 'Regulatory Fit' im Kontext von Führung?",
       "options": [
         {
-          "text": "Mitarbeitende richten ihre Motivation am Führungsstil aus",
+          "text": "Die Führungskraft hält sich konsequent an Vorschriften",
           "correct": false
         },
         {
-          "text": "Führungskraft und Mitarbeitende teilen dieselben Werte",
+          "text": "Führungskräfte regulieren die Arbeitszeiten optimal",
           "correct": false
         },
         {
@@ -552,7 +552,7 @@
           "correct": true
         },
         {
-          "text": "Führungskräfte passen ihren Stil an die Unternehmensziele an",
+          "text": "Mitarbeitende passen ihren Fokus an die Führungskraft an",
           "correct": false
         }
       ],
@@ -636,19 +636,19 @@
       "stem": "Was ist laut Studie von 2014 eine Konsequenz von Regulatory Fit bei Führung?",
       "options": [
         {
-          "text": "Die Mitarbeitenden arbeiten effizienter zusammen",
+          "text": "Konflikte im Team werden häufiger",
           "correct": false
         },
         {
-          "text": "Die Führungskraft wird als charismatischer wahrgenommen",
+          "text": "Die Arbeitsbelastung der FK steigt",
           "correct": false
         },
         {
-          "text": "Mitarbeitende fühlen sich wertgeschätzt und verstanden",
+          "text": "Mitarbeitende fühlen sich wertgeschätzt",
           "correct": true
         },
         {
-          "text": "Die Teamziele werden schneller erreicht",
+          "text": "Die FK wirkt weniger kompetent",
           "correct": false
         }
       ],
@@ -668,7 +668,7 @@
       "stem": "Was passiert psychologisch, wenn der Führungsstil zur Selbstregulation der Mitarbeitenden passt (Regulatory Fit)?",
       "options": [
         {
-          "text": "Die Mitarbeitenden passen sich schneller an neue Aufgaben an",
+          "text": "Die Mitarbeitenden werden schnell befördert",
           "correct": false
         },
         {
@@ -676,11 +676,11 @@
           "correct": true
         },
         {
-          "text": "Die Führungskraft kann ihre Autorität besser durchsetzen",
+          "text": "Die Führungskraft verliert an Autorität",
           "correct": false
         },
         {
-          "text": "Die Produktivität des Teams steigt unmittelbar",
+          "text": "Es entstehen mehr Konflikte im Team",
           "correct": false
         }
       ],
@@ -1311,19 +1311,19 @@
       "stem": "Was kann laut Fast & Chen die Aggression bei inkompetenten Machthabenden neutralisieren?",
       "options": [
         {
-          "text": "Delegation von Entscheidungen an kompetentere Personen",
+          "text": "Kritisches Feedback",
           "correct": false
         },
         {
-          "text": "Transparente Kommunikation über eigene Grenzen",
+          "text": "Öffentliche Bloßstellung",
           "correct": false
         },
         {
-          "text": "Stärkung des Selbstwerts auf anderem Wege",
+          "text": "Selbstaffirmation (Stärkung des Selbstwertgefühls)",
           "correct": true
         },
         {
-          "text": "Coaching zur Verbesserung der Fachkompetenz",
+          "text": "Mehr Macht",
           "correct": false
         }
       ],
@@ -2923,15 +2923,15 @@
           "correct": true
         },
         {
-          "text": "Temporäre Stimmungen, die von der aktuellen Situation abhängen",
+          "text": "Temporäre Stimmungen",
           "correct": false
         },
         {
-          "text": "Verhaltensweisen, die sich je nach Kontext stark verändern können",
+          "text": "Situationsabhängige Verhaltensweisen",
           "correct": false
         },
         {
-          "text": "Fähigkeiten, die durch Training und Erfahrung erworben werden",
+          "text": "Erlernte Fähigkeiten",
           "correct": false
         }
       ],
@@ -2983,7 +2983,7 @@
       "stem": "Was ist die Hauptannahme der evolutionspsychologischen Perspektive auf Leader Emergence?",
       "options": [
         {
-          "text": "Führung ist rein kulturell erlernt und hat keine biologische Grundlage",
+          "text": "Führung ist rein kulturell erlernt",
           "correct": false
         },
         {
@@ -2991,11 +2991,11 @@
           "correct": true
         },
         {
-          "text": "Evolution spielt bei modernen Führungsphänomenen keine relevante Rolle mehr",
+          "text": "Evolution spielt keine Rolle für Führung",
           "correct": false
         },
         {
-          "text": "Evolutionär bedingte Führungsmerkmale sind ausschließlich bei bestimmten Kulturen zu finden",
+          "text": "primär Männer haben evolutionär bedingte Führungsmerkmale",
           "correct": false
         }
       ],
@@ -3015,7 +3015,7 @@
       "stem": "Was unterscheidet die Leader-Trait-Perspektive von situativen Führungstheorien?",
       "options": [
         {
-          "text": "Die Trait-Perspektive wurde durch neuere Forschung weitgehend widerlegt",
+          "text": "Die Trait-Perspektive gilt als widerlegt",
           "correct": false
         },
         {
@@ -3023,11 +3023,11 @@
           "correct": true
         },
         {
-          "text": "Situative Theorien sind historisch älter als Trait-Ansätze",
+          "text": "Situative Theorien sind älter",
           "correct": false
         },
         {
-          "text": "Beide Perspektiven kommen zu identischen Vorhersagen über Führungserfolg",
+          "text": "Es gibt keinen Unterschied",
           "correct": false
         }
       ],
@@ -3456,230 +3456,6 @@
       "isMultiSelect": false,
       "sourceType": "ai",
       "sourceLabel": "🤖 KI-generiert"
-    },
-    {
-      "id": "tf_ex_1",
-      "difficulty": "medium",
-      "stem": "Welche Aussage beschreibt den zentralen Beitrag der beiden Studien von Hamstra et al. (2011, 2014) am treffendsten?",
-      "options": [
-        {
-          "text": "Transformationale Führung ist grundsätzlich effektiver als transaktionale Führung",
-          "correct": false
-        },
-        {
-          "text": "Führung wirkt unabhängig von individuellen Motivationsunterschieden der Mitarbeitenden",
-          "correct": false
-        },
-        {
-          "text": "Die Wirksamkeit von Führung hängt von der Passung zwischen Führungsstil und Regulatory Focus ab",
-          "correct": true
-        },
-        {
-          "text": "Prevention-orientierte Mitarbeitende reagieren grundsätzlich negativ auf Führung",
-          "correct": false
-        }
-      ],
-      "source": "Klausurfragen Transformationale Führung",
-      "explanation": "Die Kernaussage beider Studien: Führungseffektivität hängt von der Passung (Fit) zwischen dem Führungsstil und dem Regulatory Focus der Mitarbeitenden ab.\n\n💡 Take-Home: Es gibt keinen universell besten Führungsstil - Passung ist entscheidend!",
-      "topicId": 2,
-      "topicName": "Transformationale & Transaktionale Führung",
-      "questionType": "mc",
-      "isOriginal": true,
-      "isMultiSelect": false,
-      "sourceType": "student",
-      "sourceLabel": "📚 Aus Übungsmaterial"
-    },
-    {
-      "id": "tf_ex_2",
-      "difficulty": "medium",
-      "stem": "Welche Schlussfolgerung lässt sich korrekt aus den Ergebnissen von Hamstra et al. (2014) ziehen?",
-      "options": [
-        {
-          "text": "Transformational Leadership erhöht grundsätzlich das Gefühl von Wertschätzung",
-          "correct": false
-        },
-        {
-          "text": "Transactional Leadership wirkt wegen Promotion-orientierten Mitarbeitenden positiv",
-          "correct": false
-        },
-        {
-          "text": "Führung erhöht das Gefühl von Wertschätzung unabhängig vom Regulatory Focus",
-          "correct": false
-        },
-        {
-          "text": "Führungsverhalten erhöht Wertschätzung wenn es zur Selbstregulationslogik passt",
-          "correct": true
-        }
-      ],
-      "source": "Klausurfragen Transformationale Führung",
-      "explanation": "Hamstra 2014 zeigte: Führungsverhalten erhöht das Gefühl von Wertschätzung (Feeling Valued) nur dann, wenn es zur Selbstregulationslogik der Mitarbeitenden passt.\n\n💡 Merke: Regulatory Fit = Führungsstil passt zu Mitarbeiter-Focus → Wertschätzung entsteht",
-      "topicId": 2,
-      "topicName": "Transformationale & Transaktionale Führung",
-      "questionType": "mc",
-      "isOriginal": true,
-      "isMultiSelect": false,
-      "sourceType": "student",
-      "sourceLabel": "📚 Aus Übungsmaterial"
-    },
-    {
-      "id": "tf_ex_3",
-      "difficulty": "hard",
-      "stem": "Worin unterscheidet sich der zentrale Wirkmechanismus der Studie von Hamstra et al. (2014) von 2011?",
-      "options": [
-        {
-          "text": "2014 untersucht erstmals transformationale Führung",
-          "correct": false
-        },
-        {
-          "text": "2011 misst Wertschätzung, 2014 misst Kündigungsabsichten",
-          "correct": false
-        },
-        {
-          "text": "2014 identifiziert 'Feeling Valued' als emotionalen Mechanismus von Regulatory Fit",
-          "correct": true
-        },
-        {
-          "text": "2011 verwendet ein experimentelles Design, 2014 ein Survey",
-          "correct": false
-        }
-      ],
-      "source": "Klausurfragen Transformationale Führung",
-      "explanation": "Der Unterschied: 2014 zeigt, dass 'Feeling Valued' (sich wertgeschätzt fühlen) der emotionale MECHANISMUS ist, über den Regulatory Fit wirkt.\n\n💡 Take-Home: Fit führt zu 'Feeling Valued' - einem emotionalen Resonanzeffekt.",
-      "topicId": 2,
-      "topicName": "Transformationale & Transaktionale Führung",
-      "questionType": "mc",
-      "isOriginal": true,
-      "isMultiSelect": false,
-      "sourceType": "student",
-      "sourceLabel": "📚 Aus Übungsmaterial"
-    },
-    {
-      "id": "fim_ex_1",
-      "difficulty": "medium",
-      "stem": "Welche Aussage zu illegitim machtlosen Personen bei der Zielerreichung ist korrekt?",
-      "options": [
-        {
-          "text": "Illegitim Machtlose finden weniger Wege zur Zielerreichung als legitim Machtlose",
-          "correct": false
-        },
-        {
-          "text": "Illegitim Machtlose sind schneller im Treffen von Entscheidungen als legitim Machtlose",
-          "correct": true
-        },
-        {
-          "text": "Illegitim Machtlose sind von den Nachteilen der Machtlosigkeit weniger betroffen",
-          "correct": true
-        },
-        {
-          "text": "Illegitim Machtlose sind langsamer im Treffen von Entscheidungen als legitim Machtlose",
-          "correct": false
-        }
-      ],
-      "source": "Klausurfragen Folgen Instabiler Macht",
-      "explanation": "Willis et al. zeigten: Illegitim Machtlose sind schneller bei Entscheidungen UND weniger von typischen Nachteilen der Machtlosigkeit betroffen. Illegitimität 'schützt' vor negativen Effekten.\n\n💡 Take-Home: Illegitime Machtlosigkeit schützt vor typischen Nachteilen der Machtlosigkeit.",
-      "topicId": 4,
-      "topicName": "Folgen instabiler Macht",
-      "questionType": "mc",
-      "isOriginal": true,
-      "isMultiSelect": true,
-      "sourceType": "student",
-      "sourceLabel": "📚 Aus Übungsmaterial"
-    },
-    {
-      "id": "fim_ex_2",
-      "difficulty": "medium",
-      "stem": "Welche Effekte zeigt die Legitimität von Machtlosigkeit auf das Durchhaltevermögen?",
-      "options": [
-        {
-          "text": "Legitim Machtlose geben bei Schwierigkeiten schneller auf als Menschen ohne Machtbeziehung",
-          "correct": true
-        },
-        {
-          "text": "Illegitim Machtlose geben bei Schwierigkeiten schneller auf als Menschen ohne Machtbeziehung",
-          "correct": false
-        },
-        {
-          "text": "Illegitim Machtlose zeigen ähnliches Durchhaltevermögen wie Menschen ohne Machtbeziehung",
-          "correct": true
-        },
-        {
-          "text": "Illegitim Machtlose zeigen deutlich mehr Durchhaltevermögen als Menschen ohne Machtbeziehung",
-          "correct": false
-        }
-      ],
-      "source": "Klausurfragen Folgen Instabiler Macht",
-      "explanation": "Legitim Machtlose geben schneller auf. Illegitim Machtlose zeigen ähnliches Durchhaltevermögen wie Menschen außerhalb von Machtbeziehungen - die Illegitimität 'neutralisiert' die typischen Nachteile.\n\n💡 Merke: Illegitime Machtlosigkeit schützt vor typischen Nachteilen der Machtlosigkeit.",
-      "topicId": 4,
-      "topicName": "Folgen instabiler Macht",
-      "questionType": "mc",
-      "isOriginal": true,
-      "isMultiSelect": true,
-      "sourceType": "student",
-      "sourceLabel": "📚 Aus Übungsmaterial"
-    },
-    {
-      "id": "fim_ex_3",
-      "difficulty": "medium",
-      "stem": "Was trifft auf illegitime Machtverhältnisse zu?",
-      "options": [
-        {
-          "text": "Illegitime Machtverhältnisse sind instabiler, da mehr Bestreben besteht sie herauszufordern",
-          "correct": true
-        },
-        {
-          "text": "Illegitime Machtverhältnisse sind stabiler, da Machtlose sich weniger trauen herauszufordern",
-          "correct": false
-        },
-        {
-          "text": "Illegitime Macht scheint ein Vorteil für Machthabende und stabilisiert das Machtverhältnis",
-          "correct": false
-        },
-        {
-          "text": "Illegitime Macht scheint ein Nachteil für machtlose Personen und verstärkt Leistungsnachteile",
-          "correct": false
-        }
-      ],
-      "source": "Klausurfragen Folgen Instabiler Macht",
-      "explanation": "Illegitime Machtverhältnisse sind INSTABILER, weil die Machtlosen stärkeres Bestreben haben, das Verhältnis herauszufordern. Die scheinbare 'Stärke' von illegitimer Macht ist ein Trugschluss.\n\n💡 Take-Home: Illegitime Macht ist instabil und wird eher herausgefordert.",
-      "topicId": 4,
-      "topicName": "Folgen instabiler Macht",
-      "questionType": "mc",
-      "isOriginal": true,
-      "isMultiSelect": false,
-      "sourceType": "student",
-      "sourceLabel": "📚 Aus Übungsmaterial"
-    },
-    {
-      "id": "fim_ex_4",
-      "difficulty": "easy",
-      "stem": "Welche Aussage trifft auf den Zusammenhang von Macht, Kompetenz und Aggression zu?",
-      "options": [
-        {
-          "text": "Mächtige mit hoher selbstwahrgenommener Kompetenz verhalten sich aggressiver",
-          "correct": false
-        },
-        {
-          "text": "Mächtige mit hoher selbstwahrgenommener Inkompetenz verhalten sich aggressiver",
-          "correct": true
-        },
-        {
-          "text": "Selbstwahrgenommene Kompetenz hat keinen Einfluss auf aggressives Verhalten bei Mächtigen",
-          "correct": false
-        },
-        {
-          "text": "Machtlose verhalten sich unabhängig von Kompetenz/Inkompetenz typischerweise aggressiv",
-          "correct": false
-        }
-      ],
-      "source": "Klausurfragen Folgen Instabiler Macht",
-      "explanation": "Fast & Chen (2009): Macht + selbstwahrgenommene INKOMPETENZ → Aggression. Die Inkompetenz bedroht das Ego, was zu defensiver Aggression führt.\n\n💡 Take-Home: Macht + Inkompetenz = Aggression (durch Ego-Bedrohung).",
-      "topicId": 4,
-      "topicName": "Folgen instabiler Macht",
-      "questionType": "mc",
-      "isOriginal": true,
-      "isMultiSelect": false,
-      "sourceType": "student",
-      "sourceLabel": "📚 Aus Übungsmaterial"
     }
   ],
   "openQuestions": [
