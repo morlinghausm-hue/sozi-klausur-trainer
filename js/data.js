@@ -10,7 +10,7 @@ let questionsData = null;
  */
 async function loadQuestionsData() {
     try {
-        const response = await fetch('data/questions.json');
+        const response = await fetch('data/questions.json?v=' + Date.now());
         if (!response.ok) {
             throw new Error('Konnte Fragen nicht laden');
         }

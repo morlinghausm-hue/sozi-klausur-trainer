@@ -33,17 +33,19 @@ function saveFlashcardProgress() {
  * Lädt die Karteikarten
  */
 async function loadFlashcards() {
+    console.log('[Flashcards] Starting to load flashcards...');
     try {
         loadFlashcardProgress();
-        const response = await fetch('data/flashcards.json');
+        const response = await fetch('data/flashcards.json?v=' + Date.now());
         const data = await response.json();
         flashcardsData = data.flashcards;
         filteredFlashcards = [...flashcardsData];
 
-        console.log('Karteikarten geladen:', flashcardsData.length);
+        console.log('[Flashcards] Flashcards loaded:', flashcardsData.length);
+        console.log('[Flashcards] Calling initFlashcards()...');
         initFlashcards();
     } catch (error) {
-        console.error('Fehler beim Laden der Karteikarten:', error);
+        console.error('[Flashcards] Error loading flashcards:', error);
     }
 }
 
@@ -51,17 +53,25 @@ async function loadFlashcards() {
  * Initialisiert die Karteikarten-UI
  */
 function initFlashcards() {
+    console.log('[Flashcards] Initializing flashcards...');
+
     // Topic-Select befüllen
     const select = document.getElementById('flashcardTopicSelect');
-    if (!select) return;
+    if (!select) {
+        console.error('[Flashcards] Select element not found!');
+        return;
+    }
 
     const topics = getTopics();
+    console.log('[Flashcards] Topics from getTopics():', topics);
+    console.log('[Flashcards] Number of topics:', topics.length);
 
     topics.forEach(topic => {
         const option = document.createElement('option');
         option.value = topic.id;
         option.textContent = topic.name;
         select.appendChild(option);
+        console.log('[Flashcards] Added topic:', topic.name);
     });
 
     // Event Listeners
@@ -91,11 +101,16 @@ function initFlashcards() {
         });
     });
 
+    // Initialize Stats HTML if not present
+    initializeStatsHTML();
+
     // Initial Stats Update
     updateFlashcardStats();
 
     // Erste Karte anzeigen
     showFlashcard(0);
+
+    console.log('[Flashcards] Initialization complete');
 }
 
 /**
@@ -202,6 +217,33 @@ function handleConfidenceRating(level) {
         // Lernsession beendet
         setTimeout(() => showLearningComplete(), 300);
     }
+}
+
+/**
+ * Initialisiert die Stats-HTML-Struktur
+ */
+function initializeStatsHTML() {
+    const statsContainer = document.getElementById('flashcardStats');
+    if (!statsContainer) return;
+
+    // Prüfe ob bereits initialisiert
+    if (statsContainer.querySelector('.flashcard-stat')) return;
+
+    statsContainer.classList.add('hidden'); // Initially hidden in browse mode
+    statsContainer.innerHTML = `
+        <div class="flashcard-stat new">
+            <span class="stat-count">0</span>
+            <span class="stat-label">Neu</span>
+        </div>
+        <div class="flashcard-stat learning">
+            <span class="stat-count">0</span>
+            <span class="stat-label">Lerne</span>
+        </div>
+        <div class="flashcard-stat mastered">
+            <span class="stat-count">0</span>
+            <span class="stat-label">Beherrscht</span>
+        </div>
+    `;
 }
 
 /**

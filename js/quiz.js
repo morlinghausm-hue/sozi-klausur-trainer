@@ -502,8 +502,17 @@ function renderOpenQuestion(question) {
         document.getElementById('showSolution').classList.add('hidden');
         document.getElementById('nextQuestion').classList.remove('hidden');
 
-        // Als beantwortet zählen
+        // Als beantwortet zählen - im Storage
         recordAnswer(question.id, question.topicId, true);
+
+        // WICHTIG: Auch im quizEngine.answers registrieren, damit Ergebnisse korrekt sind
+        quizEngine.answers.push({
+            questionId: question.id,
+            topicId: question.topicId,
+            selectedIndices: [], // Keine Auswahl bei offenen Fragen
+            correctIndices: [],
+            isCorrect: true // Offene Fragen werden als "richtig" gezählt wenn Lösung angesehen
+        });
     });
 
     document.getElementById('nextQuestion').addEventListener('click', handleNextQuestion);
