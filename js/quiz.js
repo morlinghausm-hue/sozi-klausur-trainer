@@ -491,31 +491,51 @@ function renderOpenQuestion(question) {
         </div>
 
         <div class="question-actions">
-            <button class="btn btn-primary" id="showSolution">Lösung zeigen</button>
-            <button class="btn btn-primary hidden" id="nextQuestion">Weiter →</button>
+            <button class="btn btn-primary" id="openShowSolution">Lösung zeigen</button>
+            <button class="btn btn-primary hidden" id="openNextQuestion">Weiter →</button>
         </div>
     `;
 
-    // Event Listeners
-    document.getElementById('showSolution').addEventListener('click', () => {
+    // Flag um doppelte Registrierung zu verhindern
+    let answerRecorded = false;
+
+    // Event Listener für "Lösung zeigen"
+    const showSolutionBtn = document.getElementById('openShowSolution');
+    const nextBtn = document.getElementById('openNextQuestion');
+
+    showSolutionBtn.addEventListener('click', () => {
         document.getElementById('modelAnswerContainer').classList.remove('hidden');
-        document.getElementById('showSolution').classList.add('hidden');
-        document.getElementById('nextQuestion').classList.remove('hidden');
+        showSolutionBtn.classList.add('hidden');
+        nextBtn.classList.remove('hidden');
 
-        // Als beantwortet zählen - im Storage
-        recordAnswer(question.id, question.topicId, true);
+        // Nur einmal registrieren
+        if (!answerRecorded) {
+            answerRecorded = true;
 
-        // WICHTIG: Auch im quizEngine.answers registrieren, damit Ergebnisse korrekt sind
-        quizEngine.answers.push({
-            questionId: question.id,
-            topicId: question.topicId,
-            selectedIndices: [], // Keine Auswahl bei offenen Fragen
-            correctIndices: [],
-            isCorrect: true // Offene Fragen werden als "richtig" gezählt wenn Lösung angesehen
-        });
+            // Im Storage speichern
+            recordAnswer(question.id, question.topicId, true);
+
+            // Im quizEngine registrieren für korrekte Ergebnisberechnung
+            quizEngine.answers.push({
+                questionId: question.id,
+                topicId: question.topicId,
+                selectedIndices: [],
+                correctIndices: [],
+                isCorrect: true
+            });
+        }
     });
 
-    document.getElementById('nextQuestion').addEventListener('click', handleNextQuestion);
+    // Event Listener für "Weiter" - verwendet eigene ID um Konflikte zu vermeiden
+    nextBtn.addEventListener('click', () => {
+        // Zur nächsten Frage gehen
+        const next = quizEngine.next();
+        if (next) {
+            renderQuestion(next);
+        } else {
+            showQuizComplete();
+        }
+    });
 
     // Update Progress
     const progress = quizEngine.getProgress();
@@ -530,6 +550,12 @@ renderQuestion = function (question) {
     if (question.questionType === 'open') {
         renderOpenQuestion(question);
     } else {
+        // WICHTIG: Prüfe ob das MC-Layout noch existiert (könnte nach offener Frage fehlen)
+        const optionsContainer = document.getElementById('optionsContainer');
+        if (!optionsContainer) {
+            // Layout wurde durch offene Frage ersetzt - wiederherstellen
+            resetQuestionCard();
+        }
         originalRenderQuestion(question);
     }
 };
