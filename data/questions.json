@@ -347,7 +347,7 @@
       "stem": "Was unterscheidet humble leadership von dem Versuch, besonders kompetent zu wirken?",
       "options": [
         {
-          "text": "Humble Leadership verbirgt Unsicherheiten, um Autorität zu bewahren",
+          "text": "Humble Leadership verbirgt Unsicherheiten bewusst, um die eigene Autorität zu wahren",
           "correct": false
         },
         {
@@ -355,11 +355,11 @@
           "correct": true
         },
         {
-          "text": "Kompetent wirkende Führungskräfte schaffen mehr psychological safety",
+          "text": "Kompetent wirkende Führungskräfte schaffen automatisch mehr psychological safety",
           "correct": false
         },
         {
-          "text": "Humble Leader übertragen schwierige Aufgaben an Mitarbeitende",
+          "text": "Humble Leader neigen dazu, schwierige Aufgaben sofort an Mitarbeitende zu delegieren",
           "correct": false
         }
       ],
@@ -540,11 +540,11 @@
       "stem": "Was bedeutet 'Regulatory Fit' im Kontext von Führung?",
       "options": [
         {
-          "text": "Mitarbeitende richten ihre Motivation am Führungsstil aus",
+          "text": "Mitarbeitende richten ihre Motivation primär am vorgegebenen Führungsstil aus",
           "correct": false
         },
         {
-          "text": "Führungskraft und Mitarbeitende teilen dieselben Werte",
+          "text": "Führungskraft und Mitarbeitende teilen dieselben moralischen Grundwerte",
           "correct": false
         },
         {
@@ -552,7 +552,7 @@
           "correct": true
         },
         {
-          "text": "Führungskräfte passen ihren Stil an die Unternehmensziele an",
+          "text": "Führungskräfte passen ihren individuellen Stil an die globalen Unternehmensziele an",
           "correct": false
         }
       ],
@@ -572,15 +572,15 @@
       "stem": "Laut Hamstra et al.: Welche Kombination führt zu einem Regulatory Fit?",
       "options": [
         {
-          "text": "Beide Führungsstile passen zu beiden Foki gleich gut",
+          "text": "Beide Führungsstile passen unabhängig vom Fokus zu beiden Typen gleich gut",
           "correct": false
         },
         {
-          "text": "Transaktionale Führung + Promotion Focus der Mitarbeitenden",
+          "text": "Transaktionale Führung + Promotion Focus (Wachstumsziele) der Mitarbeitenden",
           "correct": false
         },
         {
-          "text": "Transformationale Führung + Prevention Focus der Mitarbeitenden",
+          "text": "Transformationale Führung + Prevention Focus (Sicherheitsziele) der Mitarbeitenden",
           "correct": false
         },
         {
@@ -616,7 +616,7 @@
           "correct": false
         },
         {
-          "text": "Weil der Stil zu ihrer eigenen Selbstregulation (Regulatory Focus) passt",
+          "text": "Weil der Stil zu ihrer persönlichen Selbstregulation und dem Regulatory Focus passt",
           "correct": true
         }
       ],
@@ -995,15 +995,15 @@
           "correct": true
         },
         {
-          "text": "Aggression, Manipulation, Kontrolle",
+          "text": "Aggressives Verhalten, manipulative Taktiken, totale Kontrolle",
           "correct": false
         },
         {
-          "text": "Motivation, Kommunikation, Delegation",
+          "text": "Intrinsische Motivation, transparente Kommunikation, Delegation",
           "correct": false
         },
         {
-          "text": "Empathie, Fairness, Bescheidenheit",
+          "text": "Gesteigerte Empathie, soziale Fairness, Bescheidenheit",
           "correct": false
         }
       ],
@@ -1023,7 +1023,7 @@
       "stem": "Was aktiviert laut Approach-Inhibition-Theorie hohe Macht?",
       "options": [
         {
-          "text": "Das Approach-System (mehr Annäherungsverhalten)",
+          "text": "Das Approach-System, welches verstärktes Annäherungsverhalten auslöst",
           "correct": true
         },
         {
@@ -1055,7 +1055,7 @@
       "stem": "Laut Gruenfeld et al. (2008): Was passiert mit der Einstellung zu einer Person, NACHDEM das gemeinsame Ziel erreicht wurde?",
       "options": [
         {
-          "text": "Die Einstellung zur Person steigt",
+          "text": "Die Einstellung zur Person steigt aufgrund des Erfolgs",
           "correct": false
         },
         {
@@ -1063,11 +1063,11 @@
           "correct": true
         },
         {
-          "text": "Die Einstellung bleibt unverändert",
+          "text": "Die Einstellung bleibt trotz Zielerreichung unverändert",
           "correct": false
         },
         {
-          "text": "Die Person wird als Freund betrachtet",
+          "text": "Die Person wird unabhängig vom Nutzen als Freund betrachtet",
           "correct": false
         }
       ],
@@ -1087,19 +1087,19 @@
       "stem": "Welche Faktoren können die Standardeffekte von Macht abschwächen (Moderatoren)?",
       "options": [
         {
-          "text": "Verantwortlichkeit für Handlungen und Systeminstabilität",
+          "text": "Verantwortlichkeit für Handlungen (Accountability) und Instabilität der Machtposition",
           "correct": true
         },
         {
-          "text": "Längere Amtszeit und mehr Erfahrung",
+          "text": "Eine signifikant längere Amtszeit und mehr Erfahrung in der Rolle",
           "correct": false
         },
         {
-          "text": "Mehr Unterstützung durch das eigene Team",
+          "text": "Bedingungslose Unterstützung durch das eigene Team und Mitarbeiter",
           "correct": false
         },
         {
-          "text": "Die Standardeffekte lassen sich nicht beeinflussen",
+          "text": "Die Standardeffekte sind fix und lassen sich durch Kontextfaktoren nicht beeinflussen",
           "correct": false
         }
       ],
@@ -1119,7 +1119,7 @@
       "stem": "Warum wirkt Accountability als Moderator der Machteffekte?",
       "options": [
         {
-          "text": "Es erhöht die Motivation der Mächtigen",
+          "text": "Es macht die Machtausübung von externen Faktoren abhängig",
           "correct": false
         },
         {
@@ -1183,19 +1183,19 @@
       "stem": "Was unterscheidet Objektifizierung von Dehumanisierung?",
       "options": [
         {
-          "text": "Objektifizierung nähert sich dem 'Objekt' an, Dehumanisierung entmenschlicht",
+          "text": "Objektifizierung nähert sich dem 'Objekt' an (Instrumentalisierung), Dehumanisierung entmenschlicht (Aberkennung von Menschlichkeit)",
           "correct": true
         },
         {
-          "text": "Es gibt keinen wesentlichen Unterschied zwischen beiden",
+          "text": "Es gibt psychologisch keinen wesentlichen Unterschied zwischen beiden Konstrukten",
           "correct": false
         },
         {
-          "text": "Dehumanisierung ist ein stärkerer Effekt als Objektifizierung",
+          "text": "Dehumanisierung ist statistisch gesehen ein stärkerer Effekt als Objektifizierung",
           "correct": false
         },
         {
-          "text": "Objektifizierung betrifft vorwiegend sexuelle Kontexte",
+          "text": "Objektifizierung betrifft in der Forschung vorwiegend sexuelle Kontexte, nicht Macht",
           "correct": false
         }
       ],
@@ -1215,11 +1215,11 @@
       "stem": "Welche überraschenden Befunde zeigten Gruenfeld et al. in Experiment 5?",
       "options": [
         {
-          "text": "Ohne gemeinsames Ziel war die Instrumentalität wichtiger",
+          "text": "Ohne gemeinsames Ziel war die Instrumentalität generell wichtiger für die Bewertung",
           "correct": false
         },
         {
-          "text": "Machtpriming führte zu mehr Empathie",
+          "text": "Machtpriming führte überraschenderweise zu deutlich mehr Empathie",
           "correct": false
         },
         {
@@ -1227,7 +1227,7 @@
           "correct": true
         },
         {
-          "text": "Es gab keine unerwarteten Befunde",
+          "text": "Es gab keine statistisch signifikanten unerwarteten Befunde in diesem Experiment",
           "correct": false
         }
       ],
@@ -1279,7 +1279,7 @@
       "stem": "Warum führt die Kombination von Macht und Inkompetenz zu Aggression?",
       "options": [
         {
-          "text": "Weil der Selbstwert bedroht wird (Ego Defensiveness)",
+          "text": "Weil der Selbstwert durch Ego-Defensiveness akut bedroht ist",
           "correct": true
         },
         {
@@ -1343,11 +1343,11 @@
       "stem": "Was zeigten die Studien 1&2 von Fast & Chen bezüglich der Haupteffekte?",
       "options": [
         {
-          "text": "Macht allein führte bereits zu Aggression",
+          "text": "Macht allein führte in den Experimenten bereits signifikant zu Aggression",
           "correct": false
         },
         {
-          "text": "Beide Faktoren wirkten unabhängig voneinander",
+          "text": "Beide Faktoren (Macht und Inkompetenz) wirkten unabhängig voneinander",
           "correct": false
         },
         {
@@ -1355,7 +1355,7 @@
           "correct": true
         },
         {
-          "text": "Inkompetenz allein führte zu Aggression",
+          "text": "Inkompetenz allein führte unabhängig von der Machtposition zu Aggression",
           "correct": false
         }
       ],
@@ -1375,7 +1375,7 @@
       "stem": "Was versteht man unter 'illegitimer' Macht?",
       "options": [
         {
-          "text": "Macht über illegale Aktivitäten",
+          "text": "Macht, die durch illegale oder kriminelle Aktivitäten erlangt wurde",
           "correct": false
         },
         {
@@ -1383,11 +1383,11 @@
           "correct": true
         },
         {
-          "text": "Jede Form von hierarchischer Macht",
+          "text": "Jede Form von hierarchischer Macht in modernen Organisationen",
           "correct": false
         },
         {
-          "text": "Macht, die illegal erworben wurde",
+          "text": "Machtpositionen, die ohne demokratische Wahlen vergeben wurden",
           "correct": false
         }
       ],
@@ -1411,15 +1411,15 @@
           "correct": true
         },
         {
-          "text": "Sie werden depressiv und passiv",
+          "text": "Sie werden aufgrund der wahrgenommenen Ungerechtigkeit depressiv und passiv",
           "correct": false
         },
         {
-          "text": "Sie zeigen die typischen Nachteile von Machtlosigkeit",
+          "text": "Sie zeigen noch stärker die typischen negativen Nachteile von Machtlosigkeit",
           "correct": false
         },
         {
-          "text": "Sie akzeptieren ihre Position schneller",
+          "text": "Sie akzeptieren ihre untergeordnete soziale Position deutlich schneller",
           "correct": false
         }
       ],
@@ -1439,15 +1439,15 @@
       "stem": "Was ist die Implikation von illegitimer Macht für die Stabilität von Machtverhältnissen?",
       "options": [
         {
-          "text": "Die Legitimität hat keinen Einfluss auf die Stabilität",
+          "text": "Die wahrgenommene Legitimität hat empirisch keinen Einfluss auf die Stabilität",
           "correct": false
         },
         {
-          "text": "Machtlose akzeptieren illegitime Macht schneller",
+          "text": "Machtlose akzeptieren illegitime Machtpositionen paradoxerweise schneller",
           "correct": false
         },
         {
-          "text": "Illegitime Macht ist stabiler, weil niemand sie in Frage stellt",
+          "text": "Illegitime Macht ist stabiler, da niemand wagt, sie offen in Frage zu stellen",
           "correct": false
         },
         {
@@ -1475,15 +1475,15 @@
           "correct": true
         },
         {
-          "text": "Inkompetenz ist der einzige Faktor für Aggression",
+          "text": "Inkompetenz ist der einzige statistisch relevante Faktor für Aggression",
           "correct": false
         },
         {
-          "text": "viele Mächtigen sind aggressiv",
+          "text": "Die Mehrheit aller Mächtigen zeigt unabhängig von Kompetenz aggressives Verhalten",
           "correct": false
         },
         {
-          "text": "Aggression bei Mächtigen kann nicht verhindert werden",
+          "text": "Aggression ist ein Persönlichkeitsmerkmal und kann bei Mächtigen nicht verhindert werden",
           "correct": false
         }
       ],
@@ -1503,19 +1503,19 @@
       "stem": "Welche Komponenten der Zielerreichung wurden in der Willis-Studie untersucht?",
       "options": [
         {
-          "text": "Motivation, Kompetenz, Ressourcen",
+          "text": "Motivation, Kompetenz und soziale Ressourcen der Führungskraft im Team",
           "correct": false
         },
         {
-          "text": "Planung, Delegation, Kontrolle",
+          "text": "Strategische Planung, Delegation von Aufgaben und nachträgliche Kontrolle",
           "correct": false
         },
         {
-          "text": "Zielsetzung, Zielverfolgung, Durchhaltevermögen",
+          "text": "Zielsetzung, Zielverfolgung und das Durchhaltevermögen zur Überwindung von Hindernissen",
           "correct": true
         },
         {
-          "text": "Kommunikation, Kooperation, Führung",
+          "text": "Interne Kommunikation, Kooperation und hierarchische Führung",
           "correct": false
         }
       ],
@@ -1667,15 +1667,15 @@
           "correct": true
         },
         {
-          "text": "Macht als Pflicht gegenüber anderen",
+          "text": "Macht wird primär als schwere Pflicht gegenüber anderen verstanden",
           "correct": false
         },
         {
-          "text": "Macht als vorübergehender Zustand",
+          "text": "Macht wird als ein nur vorübergehender Zustand angesehen",
           "correct": false
         },
         {
-          "text": "Macht als Risiko",
+          "text": "Macht wird grundsätzlich als persönliches Risiko wahrgenommen",
           "correct": false
         }
       ],
@@ -1727,7 +1727,7 @@
       "stem": "Was ist Machtmotivation?",
       "options": [
         {
-          "text": "Die Fähigkeit, andere zu kontrollieren",
+          "text": "Die administrative Fähigkeit, andere Personen effektiv zu kontrollieren",
           "correct": false
         },
         {
@@ -1735,11 +1735,11 @@
           "correct": true
         },
         {
-          "text": "Das Arbeitszufriedenheit einer Führungskraft",
+          "text": "Die allgemeine Arbeitszufriedenheit einer erfahrenen Führungskraft",
           "correct": false
         },
         {
-          "text": "Die Angst vor Macht",
+          "text": "Die pathologische Angst vor Verantwortung und Macht",
           "correct": false
         }
       ],
@@ -2115,15 +2115,15 @@
       "stem": "Was bedeutet Wohlwollen (Benevolenz) im Kontext von Vertrauen?",
       "options": [
         {
-          "text": "Die Fähigkeit, komplexe Aufgaben zu lösen",
+          "text": "Die Fähigkeit, selbst unter hohem Druck komplexe Aufgaben effizient zu lösen",
           "correct": false
         },
         {
-          "text": "Das Einhalten von Gesetzen",
+          "text": "Das strikte Einhalten von geschriebenen und ungeschriebenen Gesetzen",
           "correct": false
         },
         {
-          "text": "Die Konsistenz zwischen Worten und Taten",
+          "text": "Die nachgewiesene Konsistenz zwischen mündlichen Versprechen und tatsächlichen Taten",
           "correct": false
         },
         {
@@ -2151,15 +2151,15 @@
           "correct": true
         },
         {
-          "text": "Hohe Intelligenz",
+          "text": "Eine überdurchschnittlich hohe Intelligenz",
           "correct": false
         },
         {
-          "text": "Lange Berufserfahrung",
+          "text": "Langjährige Berufserfahrung in Führungspositionen",
           "correct": false
         },
         {
-          "text": "Freundliches Auftreten",
+          "text": "Ein stets freundliches und zugewandtes Auftreten",
           "correct": false
         }
       ],
@@ -2179,11 +2179,11 @@
       "stem": "Warum ist die Darstellung von Macht als Verantwortung mit mehr Vertrauen verbunden?",
       "options": [
         {
-          "text": "Weil Verantwortungsträger automatisch als kompetenter eingeschätzt werden",
+          "text": "Weil Verantwortungsträger automatisch als kompetenter und fähiger eingeschätzt werden",
           "correct": false
         },
         {
-          "text": "Weil sie als durchsetzungsstärker und dominanter wahrgenommen werden",
+          "text": "Weil sie von der Gruppe als durchsetzungsstärker und dominanter wahrgenommen werden",
           "correct": false
         },
         {
@@ -2191,7 +2191,7 @@
           "correct": true
         },
         {
-          "text": "Weil Verantwortung dazu führt, dass Führungskräfte keine Fehler machen",
+          "text": "Weil Verantwortung dazu führt, dass Führungskräfte weniger Fehler machen",
           "correct": false
         }
       ],
@@ -2211,19 +2211,19 @@
       "stem": "Was bedeutet 'Power Granting'?",
       "options": [
         {
-          "text": "Die formelle Zuweisung einer Führungsposition durch die Organisation",
+          "text": "Die formelle und vertragliche Zuweisung einer Führungsposition durch die Organisation",
           "correct": false
         },
         {
-          "text": "Die automatische Vererbung von Macht",
+          "text": "Die automatische Vererbung von Machtpositionen innerhalb einer Hierarchie",
           "correct": false
         },
         {
-          "text": "Das aktive Einfordern von Entscheidungsbefugnissen durch die Führungskraft",
+          "text": "Das aktive und fordernde Einfordern von Entscheidungsbefugnissen durch die Führungskraft",
           "correct": false
         },
         {
-          "text": "Die Bereitschaft von Mitarbeitenden, ihrer Führungskraft Macht und Einfluss zuzusprechen",
+          "text": "Die freiwillige Bereitschaft von Mitarbeitenden, ihrer Führungskraft Macht und Einfluss zuzusprechen",
           "correct": true
         }
       ],
@@ -2243,19 +2243,19 @@
       "stem": "Warum ist Integrität als Moderator wichtig für den Effekt von Benevolenz auf Power Granting?",
       "options": [
         {
-          "text": "Weil Integrität wichtiger ist als Benevolenz",
+          "text": "Weil Integrität in Führungspositionen generell als wichtiger bewertet wird als Benevolenz",
           "correct": false
         },
         {
-          "text": "Weil Integrität keinen Einfluss hat",
+          "text": "Weil Integrität statistisch gesehen keinen signifikanten Einfluss auf das Vertrauen hat",
           "correct": false
         },
         {
-          "text": "Weil primär integer Personen benevolent sein können",
+          "text": "Weil empirisch gezeigt wurde, dass primär integer Personen benevolent sein können",
           "correct": false
         },
         {
-          "text": "Weil Integrität sicherstellt, dass Versprechen auch gehalten werden",
+          "text": "Weil Integrität sicherstellt, dass die guten Absichten (Benevolenz) auch tatsächlich in Handlungen umgesetzt werden",
           "correct": true
         }
       ],
@@ -2275,11 +2275,11 @@
       "stem": "Was vermittelt (mediiert) den Zusammenhang zwischen Benevolenz und Power Granting?",
       "options": [
         {
-          "text": "Das Arbeitszufriedenheit der Person",
+          "text": "Die allgemeine Arbeitszufriedenheit der betroffenen Person",
           "correct": false
         },
         {
-          "text": "Die Teamgröße",
+          "text": "Die relative Größe des Teams im Vergleich zu anderen Abteilungen",
           "correct": false
         },
         {
@@ -2287,7 +2287,7 @@
           "correct": true
         },
         {
-          "text": "Die Berufserfahrung",
+          "text": "Die Anzahl der Jahre an relevanter Berufserfahrung",
           "correct": false
         }
       ],
@@ -2470,19 +2470,19 @@
       "stem": "Was versteht man unter dem Prototypikalitäts-Gradienten in Gruppen?",
       "options": [
         {
-          "text": "viele Mitglieder sind gleich prototypisch",
+          "text": "Alle Mitglieder einer Gruppe sind per Definition gleichermaßen prototypisch",
           "correct": false
         },
         {
-          "text": "Einige Mitglieder sind prototypischer als andere",
+          "text": "Einige Mitglieder sind prototypischer als andere (Gradient der Prototypikalität)",
           "correct": true
         },
         {
-          "text": "primär der offizielle Leader ist prototypisch",
+          "text": "Ausschließlich der offiziell ernannte Leader kann prototypisch sein",
           "correct": false
         },
         {
-          "text": "Prototypikalität wird vom Leader festgelegt",
+          "text": "Der Grad der Prototypikalität wird vom Leader zentral festgelegt",
           "correct": false
         }
       ],
@@ -2502,11 +2502,11 @@
       "stem": "Was passiert mit der Bedeutung allgemeiner Führungsschemata, wenn die Gruppenzugehörigkeit salient wird?",
       "options": [
         {
-          "text": "Sie sinkt, während die Bedeutung der Gruppenprototypikalität steigt",
+          "text": "Sie sinkt stark ab, während die Bedeutung der relativen Gruppenprototypikalität steigt",
           "correct": true
         },
         {
-          "text": "Sie wird wichtiger als die Gruppenprototypikalität",
+          "text": "Sie wird signifikant wichtiger als die spezifische Gruppenprototypikalität",
           "correct": false
         },
         {
@@ -2514,7 +2514,7 @@
           "correct": false
         },
         {
-          "text": "Sie bleibt unverändert hoch, da Führungsschemata universell sind",
+          "text": "Sie bleibt unverändert hoch, da Führungsschemata kontextübergreifend universell sind",
           "correct": false
         }
       ],
@@ -2538,15 +2538,15 @@
           "correct": true
         },
         {
-          "text": "Soziale Attraktion gibt es primär in formellen Gruppen",
+          "text": "Soziale Attraktion tritt ausschließlich in streng formellen Gruppenkontexten auf",
           "correct": false
         },
         {
-          "text": "Persönliche Attraktion ist stärker als soziale Attraktion",
+          "text": "Persönliche Attraktion ist in allen Kontexten stärker wirksam als soziale Attraktion",
           "correct": false
         },
         {
-          "text": "Es gibt keinen Unterschied",
+          "text": "Es gibt empirisch keinen signifikanten Unterschied zwischen beiden Formen",
           "correct": false
         }
       ],
@@ -2570,15 +2570,15 @@
           "correct": true
         },
         {
-          "text": "Weil sie mehr reden als andere",
+          "text": "Weil sie durch häufigere Redebeiträge kompetenter wirken",
           "correct": false
         },
         {
-          "text": "Weil sie objektiv charismatischer sind",
+          "text": "Weil objektive Leistungsmessungen ihre Überlegenheit belegen",
           "correct": false
         },
         {
-          "text": "Charisma und Prototypikalität sind unabhängig voneinander",
+          "text": "Charisma und Prototypikalität sind statistisch unabhängig",
           "correct": false
         }
       ],
@@ -2602,7 +2602,7 @@
           "correct": true
         },
         {
-          "text": "Misserfolg hatte keinen Einfluss auf die Bewertung",
+          "text": "Vertrauen moderierte den Zusammenhang zwischen Misserfolg und Bewertung nicht",
           "correct": false
         },
         {
@@ -2630,19 +2630,19 @@
       "stem": "Wie verhält sich die wahrgenommene Prototypikalität eines Leaders in Abhängigkeit von dessen Performance?",
       "options": [
         {
-          "text": "primär Misserfolg beeinflusst die Prototypikalität",
+          "text": "Primär Misserfolg beeinflusst die wahrgenommene Prototypikalität negativ",
           "correct": false
         },
         {
-          "text": "Prototypikalität ist stabil und ändert sich nicht",
+          "text": "Prototypikalität ist eine stabile Eigenschaft und ändert sich durch Performance nicht",
           "correct": false
         },
         {
-          "text": "Die Performance hat keinen Einfluss auf die Prototypikalität",
+          "text": "Die objektive Performance hat empirisch keinen Einfluss auf die Prototypikalität",
           "correct": false
         },
         {
-          "text": "Erfolg erhöht und Misserfolg senkt die wahrgenommene Prototypikalität",
+          "text": "Erfolg erhöht und Misserfolg senkt die wahrgenommene Prototypikalität eines Leaders",
           "correct": true
         }
       ],
@@ -2662,19 +2662,19 @@
       "stem": "Was ist eine Strategie, mit der Leader ihre Prototypikalität aufrechterhalten können?",
       "options": [
         {
-          "text": "Marginalisierung von Ingroup-Abweichlern oder Dämonisierung einer Outgroup",
+          "text": "Strategische Marginalisierung von Ingroup-Abweichlern oder Dämonisierung einer Outgroup",
           "correct": true
         },
         {
-          "text": "Änderung des eigenen Verhaltens in Richtung der Outgroup",
+          "text": "Systematische Anpassung des eigenen Verhaltens in Richtung der Outgroup-Normen",
           "correct": false
         },
         {
-          "text": "Aufgeben der Führungsposition",
+          "text": "Freiwilliges Aufgeben der zentralen Führungsposition zugunsten eines anderen Gruppenmitglieds",
           "correct": false
         },
         {
-          "text": "Betonung individueller statt gruppenbezogener Merkmale",
+          "text": "Explizite Betonung individueller statt gruppenbezogener Merkmale zur Abgrenzung",
           "correct": false
         }
       ],
@@ -2694,19 +2694,19 @@
       "stem": "Was ist die zentrale Take-Home-Message zur Social Identity Theory of Leadership?",
       "options": [
         {
-          "text": "Führung hängt primär von der Persönlichkeit des Leaders ab",
+          "text": "Führungserfolg hängt laut Theorie primär von den stabilen Persönlichkeitsmerkmalen des Leaders ab",
           "correct": false
         },
         {
-          "text": "Führung ist ein Gruppenprozess, nicht eine individuelle Eigenschaft",
+          "text": "Führung ist ein dynamischer Gruppenprozess, keine statische individuelle Eigenschaft",
           "correct": true
         },
         {
-          "text": "Vertrauen spielt keine Rolle für die Bewertung von Leadern",
+          "text": "Vertrauen spielt empirisch keine signifikante Rolle für die Bewertung von Leadern",
           "correct": false
         },
         {
-          "text": "Prototypikalität ist unwichtig für Führungserfolg",
+          "text": "Prototypikalität ist für den langfristigen Führungserfolg weitgehend unwichtig",
           "correct": false
         }
       ],
@@ -2855,19 +2855,19 @@
       "stem": "Was ist der Unterschied zwischen 'Leader Emergence' und 'Leader Effectiveness'?",
       "options": [
         {
-          "text": "Emergence bezieht sich primär auf formelle, Effectiveness primär auf informelle Führung",
+          "text": "Emergence bezieht sich primär auf formelle Hierarchie, Effectiveness primär auf informelle Einflussnahme",
           "correct": false
         },
         {
-          "text": "Emergence = wie erfolgreich jemand führt; Effectiveness = wer Leader wird",
+          "text": "Emergence beschreibt, wie erfolgreich jemand führt; Effectiveness beschreibt, wer überhaupt Leader wird",
           "correct": false
         },
         {
-          "text": "Es gibt keinen Unterschied",
+          "text": "Es gibt empirisch keinen signifikanten Unterschied zwischen beiden Konstrukten",
           "correct": false
         },
         {
-          "text": "Emergence = wer zur Führungsperson wird; Effectiveness = wie erfolgreich diese Person führt",
+          "text": "Emergence = wer als Führungsperson wahrgenommen wird; Effectiveness = wie erfolgreich diese Person das Team führt",
           "correct": true
         }
       ],
@@ -2887,19 +2887,19 @@
       "stem": "Welche Big-Five-Persönlichkeitsmerkmale hängen laut Forschung positiv mit Führungseffektivität zusammen?",
       "options": [
         {
-          "text": "Neurotizismus und Introversion",
+          "text": "Neurotizismus (emotionale Instabilität) und Introversion",
           "correct": false
         },
         {
-          "text": "primär Gewissenhaftigkeit",
+          "text": "Primär hohe Gewissenhaftigkeit ohne sozialen Fokus",
           "correct": false
         },
         {
-          "text": "Extraversion und Offenheit",
+          "text": "Extraversion und Offenheit für neue Erfahrungen",
           "correct": true
         },
         {
-          "text": "Keine der Big Five hängt mit Führung zusammen",
+          "text": "Keine der Big Five Dimensionen korreliert mit Führung",
           "correct": false
         }
       ],
@@ -2923,15 +2923,15 @@
           "correct": true
         },
         {
-          "text": "Temporäre Stimmungen, die von der aktuellen Situation abhängen",
+          "text": "Temporäre emotionale Stimmungen, die stark von der aktuellen Situation abhängen",
           "correct": false
         },
         {
-          "text": "Verhaltensweisen, die sich je nach Kontext stark verändern können",
+          "text": "Spezifische Verhaltensweisen, die sich je nach Kontext stark verändern können",
           "correct": false
         },
         {
-          "text": "Fähigkeiten, die durch Training und Erfahrung erworben werden",
+          "text": "Technische Fähigkeiten, die durch gezieltes Training und Erfahrung erworben werden",
           "correct": false
         }
       ],
@@ -2951,11 +2951,11 @@
       "stem": "Welche Kernmerkmale sagen laut Forschung berufliche Leistung vorher?",
       "options": [
         {
-          "text": "primär Extraversion",
+          "text": "Ausschließlich Extraversion und emotionale Stabilität",
           "correct": false
         },
         {
-          "text": "Äußerliche Attraktivität",
+          "text": "Äußerliche Attraktivität und charismatisches Auftreten",
           "correct": false
         },
         {
@@ -2963,7 +2963,7 @@
           "correct": true
         },
         {
-          "text": "primär Intelligenz",
+          "text": "Primär kognitive Intelligenz und Fachwissen",
           "correct": false
         }
       ],
@@ -2983,19 +2983,19 @@
       "stem": "Was ist die Hauptannahme der evolutionspsychologischen Perspektive auf Leader Emergence?",
       "options": [
         {
-          "text": "Führung ist rein kulturell erlernt und hat keine biologische Grundlage",
+          "text": "Führung ist ein rein kulturell erlerntes Phänomen ohne jegliche biologische Grundlage",
           "correct": false
         },
         {
-          "text": "Führungsmerkmale wurden durch natürliche und sexuelle Selektion geformt, weil sie Überlebens- und Fortpflanzungsvorteile boten",
+          "text": "Führungsmerkmale wurden durch natürliche Selektion geformt, da sie evolutionäre Vorteile boten",
           "correct": true
         },
         {
-          "text": "Evolution spielt bei modernen Führungsphänomenen keine relevante Rolle mehr",
+          "text": "Evolutionäre Mechanismen spielen bei komplexen modernen Führungsphänomenen keine Rolle mehr",
           "correct": false
         },
         {
-          "text": "Evolutionär bedingte Führungsmerkmale sind ausschließlich bei bestimmten Kulturen zu finden",
+          "text": "Evolutionär bedingte Führungsmerkmale sind kulturell variabel und nicht universell",
           "correct": false
         }
       ],
@@ -3015,7 +3015,7 @@
       "stem": "Was unterscheidet die Leader-Trait-Perspektive von situativen Führungstheorien?",
       "options": [
         {
-          "text": "Die Trait-Perspektive wurde durch neuere Forschung weitgehend widerlegt",
+          "text": "Die Trait-Perspektive wurde durch neuere Forschung vollständig widerlegt und gilt als obsolet",
           "correct": false
         },
         {
@@ -3023,11 +3023,11 @@
           "correct": true
         },
         {
-          "text": "Situative Theorien sind historisch älter als Trait-Ansätze",
+          "text": "Situative Theorien sind historisch deutlich älter und etablierter als Trait-Ansätze",
           "correct": false
         },
         {
-          "text": "Beide Perspektiven kommen zu identischen Vorhersagen über Führungserfolg",
+          "text": "Beide Perspektiven kommen in Meta-Analysen zu identischen Vorhersagen über Führungserfolg",
           "correct": false
         }
       ],
@@ -3207,15 +3207,15 @@
       "stem": "Was versteht man unter 'virtuellen Teams'?",
       "options": [
         {
-          "text": "Teams, die vorwiegend in einer virtuellen Realität existieren",
+          "text": "Teams, die vorwiegend in einer simulierten virtuellen Realität existieren",
           "correct": false
         },
         {
-          "text": "Projektgruppen, die ohne menschliche Interaktion arbeiten",
+          "text": "Projektgruppen, die vollständig ohne direkte menschliche Interaktion arbeiten",
           "correct": false
         },
         {
-          "text": "Teams, die primär informellen Charakter haben",
+          "text": "Teams, die primär einen lockeren, informellen Charakter haben",
           "correct": false
         },
         {
@@ -3243,15 +3243,15 @@
           "correct": false
         },
         {
-          "text": "Weil Führungskräfte in virtuellen Teams keine Sanktionsmöglichkeiten haben",
+          "text": "Weil Führungskräfte in virtuellen Teams keine effektiven Sanktionsmöglichkeiten haben",
           "correct": false
         },
         {
-          "text": "Weil direkte Überwachung und persönliche Präsenz fehlen",
+          "text": "Weil direkte Überwachung und persönliche Präsenz als Kontrollinstrumente fehlen",
           "correct": true
         },
         {
-          "text": "Weil hierarchische Statussymbole virtuell weniger sichtbar sind",
+          "text": "Weil hierarchische Statussymbole (z.B. Eckbüro) virtuell weniger sichtbar sind",
           "correct": false
         }
       ],
@@ -3271,11 +3271,11 @@
       "stem": "Was ist 'Shared Leadership'?",
       "options": [
         {
-          "text": "Führung rotiert automatisch nach einem festen Zeitplan",
+          "text": "Führungskompetenz rotiert automatisch nach einem vorab festgelegten Zeitplan durch das Team",
           "correct": false
         },
         {
-          "text": "Die formelle Aufteilung der Führungsrolle auf exakt zwei Personen",
+          "text": "Die formelle und vertraglich geregelte Aufteilung der Führungsrolle auf exakt zwei Personen",
           "correct": false
         },
         {
@@ -3283,7 +3283,7 @@
           "correct": true
         },
         {
-          "text": "Führung wird extern eingekauft",
+          "text": "Führungskompetenz wird extern durch spezialisierte Berater eingekauft",
           "correct": false
         }
       ],
@@ -3335,11 +3335,11 @@
       "stem": "Was ist laut ImpulseZumLernen wichtig zu verstehen bezüglich virtueller Teams?",
       "options": [
         {
-          "text": "Dass der Einsatz von Technologie viele Führungsprobleme löst",
+          "text": "Dass der Einsatz von Technologie fast alle traditionellen Führungsprobleme automatisch löst",
           "correct": false
         },
         {
-          "text": "Die rein technischen Herausforderungen der Virtualität",
+          "text": "Die rein technischen Herausforderungen der Implementierung von Virtualität",
           "correct": false
         },
         {
@@ -3347,7 +3347,7 @@
           "correct": true
         },
         {
-          "text": "Die juristischen Aspekte von Home-Office",
+          "text": "Die juristischen Aspekte der Arbeitszeitregelung im Home-Office",
           "correct": false
         }
       ],
@@ -3367,15 +3367,15 @@
       "stem": "Was ist 'strukturelle Unterstützung' im Kontext virtueller Teams?",
       "options": [
         {
-          "text": "Regelmäßige finanzielle Boni",
+          "text": "Regelmäßige finanzielle Boni als Anreiz",
           "correct": false
         },
         {
-          "text": "Psychologische Unterstützung bei Isolation",
+          "text": "Psychologische Unterstützung bei Gefühl von Isolation",
           "correct": false
         },
         {
-          "text": "Technische Schulungen für neue Software",
+          "text": "Technische Schulungen für den Umgang mit neuer Software",
           "correct": false
         },
         {
@@ -3399,19 +3399,19 @@
       "stem": "Welche Herausforderung ist zentral für Führungskräfte im digitalen Kontext?",
       "options": [
         {
-          "text": "Mehr Präsenztermine zu erzwingen",
+          "text": "Mehr physische Präsenztermine zu erzwingen, um Kontrolle zurückzugewinnen",
           "correct": false
         },
         {
-          "text": "Den Kontrollverlust durch Micro-Management zu kompensieren",
+          "text": "Den drohenden Kontrollverlust durch intensives Micro-Management zu kompensieren",
           "correct": false
         },
         {
-          "text": "Technologie als vollständigen Ersatz für Führung zu etablieren",
+          "text": "Technologie als vollständigen und effizienteren Ersatz für menschliche Führung zu etablieren",
           "correct": false
         },
         {
-          "text": "Vertrauen und Motivation im Team aufbauen trotz räumlicher Distanz",
+          "text": "Vertrauen und Motivation im Team aufbauen, trotz fehlender physischer Präsenz und Distanz",
           "correct": true
         }
       ],
@@ -3435,15 +3435,15 @@
           "correct": true
         },
         {
-          "text": "Virtualität macht Führung weitgehend überflüssig",
+          "text": "Virtualität mediiert den Einfluss der Führungskraft vollständig, sodass Führungstypen irrelevant werden",
           "correct": false
         },
         {
-          "text": "Virtualität verstärkt den positiven Effekt strikter hierarchischer Kontrolle",
+          "text": "Virtualität verstärkt den positiven Effekt strikter hierarchischer Kontrolle signifikant",
           "correct": false
         },
         {
-          "text": "primär hierarchische Führung funktioniert in virtuellen Teams, da sonst Chaos droht",
+          "text": "Primär hierarchische Führung funktioniert in virtuellen Teams, da sonst Chaos droht",
           "correct": false
         }
       ],
